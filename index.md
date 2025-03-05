@@ -10,12 +10,12 @@ Beyond security testing, I have a  background in security automation, incident r
 
 This site serves as my digital space to share my projects, resume, and research. Whether it’s offensive security, hardware hacking, exploit development, or security automation, I enjoy diving into technical challenges that push security boundaries.
 
-💡 Current Focus:/
-🔹 Penetration Testing & Red Teaming/
-🔹 Web & Application Security/
-🔹 Reverse Engineering & Exploit Development/
-🔹 Hardware Security & Embedded Systems/
-🔹 Security Research & Threat Hunting/
+💡 Current Focus:\
+🔹 Penetration Testing & Red Teaming\
+🔹 Web & Application Security\
+🔹 Reverse Engineering & Exploit Development\
+🔹 Hardware Security & Embedded Systems\
+🔹 Security Research & Threat Hunting\
 
 If you're interested in collaborating, discussing security topics, or just geeking out over offensive security and breaking things (ethically, of course!), feel free to connect with me!
 
