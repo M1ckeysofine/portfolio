@@ -1,5 +1,10 @@
 module.exports = function(eleventyConfig) {
     
+    
+    const embedEverything = require("eleventy-plugin-embed-everything");
+    module.exports = function(eleventyConfig) {
+    eleventyConfig.addPlugin(embedEverything);
+};
     const markdownIt = require('markdown-it');
     const markdownItOptions = {
         html: true,
@@ -45,4 +50,5 @@ module.exports = function(eleventyConfig) {
         },
         passthroughFileCopy: true
     }
+
 }

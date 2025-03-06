@@ -1,5 +1,7 @@
 ---
-title: About these notes
+title: Mick's Thoughts
 ---
-# About these Notes
-These are some fake notes. Feel free to poke around. You may spot an [[easter egg]]  or two! Also, I like [[food]].
+# Thoughts I don't want to forget
+This is where I put projects, ideas, thoughts about things I am working on that I don't want to misplace
+
+[[easter egg]]
