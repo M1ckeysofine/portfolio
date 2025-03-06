@@ -1,7 +1,7 @@
 ---
 title: Mick's Thoughts
 ---
-# Thoughts I don't want to forget
+# Mick's Notes/Thoughts/Rants
 This is where I put projects, ideas, thoughts about things I am working on that I don't want to misplace
 
-[[easter egg]]
+[[SANS Holiday Hack Submissions]]
