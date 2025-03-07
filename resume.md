@@ -4,7 +4,7 @@ title: Mick's Resume
 ---
 
 # **Mick Cecil**  
-📍 United States | 📧 the.m1ck(at)proton.me | 📞 (971) 415-4171  
+📍 United States | 📧 the.m1ck(at)proton.me |
 [🔗 LinkedIn](https://www.linkedin.com/in/mickeycecil) | [🌐 Website](https://mickcecil.com)  
 
 ---
