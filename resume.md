@@ -54,6 +54,10 @@ Holds a **patent in anomalous computer activity detection**, demonstrating exper
 
 ## **Professional Experience**  
 
+#### Amazon Stores Security - Multiple Positions ####
+
+---
+
 ### **Amazon – Manager, Security Engineer, Proactive Security Operations**  
 📍 **Amazon Global Customer Service Security** | 📅 **12/2024 – Present**  
 - Founded and led **Proactive Security Operations (PSO)**, a **specialized purple team** bridging **blue and red team functions**.  
@@ -72,11 +76,30 @@ Holds a **patent in anomalous computer activity detection**, demonstrating exper
 - Established and led a **new incident response team**, improving Amazon’s **global customer service security**.  
 - Developed **tactical incident response protocols**, enabling rapid detection and mitigation of security threats.  
 
+### **Amazon – Security Engineer, Insider Threat Prevention**  
+📍 **Amazon Security Operations Center** | 📅 **12/2019 – 7/2021**  
+- Built **Amazon’s first Insider Threat Prevention program**, integrating **behavioral anomaly detection and forensic analysis**.  
+- Developed **custom covert forensic collection tools in Python**, enhancing **real-time threat identification**.  
+
+### **Amazon – Security Engineer, Security Incident Response Team (SIRT)**  
+📍 **Amazon Security Operations Center** | 📅 **12/2018 – 12/2019**  
+- Investigated and remediated **high-severity security incidents**, including **malware containment, AWS service takeovers, and exposed data breaches**.  
+
+---
+
 ### **TMC Healthcare – Senior Security Engineer**  
 📍 **TMC Healthcare** | 📅 **2011 – 2018**  
 - Established and built **TMC’s first formal information security program**.  
 - Conducted **penetration tests** and developed **HIPAA-compliant security policies**.  
 - Led **incident response** and deployed **security controls** across medical systems and applications.  
+
+---
+
+### **Sunquest Information Systems – Senior Network Security Engineer**  
+📍 **Sunquest Information Systems** | 📅 **2009 – 2011**  
+- Designed and maintained **secure network infrastructure** for a **global healthcare software company**.  
+- Ensured **HIPAA compliance** and conducted **vulnerability assessments**.  
+- Integrated **security best practices into application and network design**.  
 
 ---
 
