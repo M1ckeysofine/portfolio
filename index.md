@@ -25,4 +25,4 @@ If you're interested in collaborating, discussing security topics, or just geeki
 
 📧 Email me - the.m1ck(at)proton.me
 
-<img src="assets/HolidayHackWin.png"width=128>
+<img src="assets/HolidayHackWin.png" width="128">
