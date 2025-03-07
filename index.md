@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-# Hi, I’m Mick Cecil,
+# Hi, I’m Mick,
  I am an experienced Security Engineer, Penetration Tester, and SecOps Leader with a passion for offensive security, vulnerability research, and building resilient security programs. With over 15 years in information security and extensive experience in penetration testing, threat operations, and incident response, I specialize in breaking systems to make them stronger.
 
 My journey in security has taken me through leading security engineering teams, designing and executing large-scale penetration tests, and driving strategic security initiatives for Amazon's retail security team. I also have technical security and leadership experience in healthcare and hospitatlity markets. I thrive on discovering security flaws, developing exploit techniques, and working with teams to secure applications, networks, and cloud environments.
