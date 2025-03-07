@@ -1,0 +1,112 @@
+---
+layout: default
+title: Mick's Resume
+---
+
+# **Mick Cecil**  
+📍 United States | 📧 the.m1ck(at)proton.me | 📞 (971) 415-4171  
+[🔗 LinkedIn](https://www.linkedin.com/in/mickeycecil) | [🌐 Website](https://mickcecil.com)  
+
+---
+
+## **Professional Summary**  
+Accomplished **Information Security Engineering Leader** with over **15 years of experience** in **strategic security operations, offensive security, threat hunting, and threat intelligence**.  
+
+Built and led multiple high-impact security teams at **Amazon**, including:  
+- **Amazon’s first Insider Threat Prevention Team** within Retail Security, focused on **proactive insider risk detection and mitigation**.  
+- **Global Customer Service Security’s CSIRT**, strengthening Amazon’s ability to **rapidly detect, investigate, and respond** to security incidents at scale.  
+- **Proactive Security Operations (PSO)**, a **Purple Team bridging blue and red team functions**, specializing in **threat hunting, intelligence analysis, and adversarial emulation**.  
+- **Threat Operations for Amazon Global Customer Service Security**, overseeing **50+ engineers and analysts** across **incident response, automation, red teaming, and legal support functions**.  
+
+Holds a **patent in anomalous computer activity detection**, demonstrating expertise in **behavioral threat modeling, automation, and security innovation**. Recognized as a **SANS Holiday Hack Winner**, excelling in **offensive security techniques, exploit development, and adversary simulation**. Passionate about **building and leading high-performance security teams**, driving **offensive security research**, and enhancing **enterprise security resilience** through **automation and strategic threat management**.  
+
+---
+
+## **Professional Skills**  
+
+### **Leadership & Management Skills**  
+- **Security Team Development & Leadership** – Built and led multiple high-impact security teams, scaling teams up to **50+ engineers and analysts**.  
+- **Strategic Security Program Development** – Designed and executed **large-scale security programs** for **incident response, adversarial emulation, and insider threat detection** across Amazon’s global enterprise.  
+- **Cross-Functional Collaboration** – Partnered with **engineering, legal, HR, and executive leadership** to drive security initiatives and influence key stakeholders.  
+- **Threat-Informed Defense & Security Automation** – Integrated **threat intelligence, red teaming, and security automation** to proactively improve security posture.  
+- **Crisis Management & Incident Command** – Managed **high-severity security incidents**, ensuring **rapid containment, forensic investigation, and mitigation**.  
+
+### **Offensive Security & Adversarial Emulation**  
+- **Penetration Testing & Red Team Operations** – Extensive experience in **web, mobile, network, cloud, and infrastructure security testing**.  
+- **Purple Team Operations** – Developed and led **Proactive Security Operations (PSO), a hybrid red/blue team**, conducting **threat hunting, adversary emulation, and security gap analysis**.  
+- **Threat Intelligence & Attack Simulation** – Designed and executed **covert and overt security assessments**, leveraging **real-world attacker TTPs**.  
+- **Insider Threat Detection & Digital Forensics** – Built Amazon’s **first Insider Threat Prevention program**, implementing **automated behavioral anomaly detection and forensic analysis**.  
+- **Exploitation Techniques & Security Research** – Recognized as a **SANS Holiday Hack Winner**, demonstrating expertise in **reverse engineering, exploit development, and adversary simulation**.  
+
+### **Security Engineering Skills**  
+- **Cloud Security & AWS Security** – Deep expertise in **AWS security architecture, IAM hardening, and securing cloud-native applications**.  
+- **Security Automation & Tool Development** – Developed **custom security tooling for forensic evidence collection and automated security response in Python**.  
+- **Threat Modeling & Risk-Based Security** – Conducted **threat modeling, secure architecture reviews, and risk-based security testing**.  
+- **Vulnerability Research & Zero-Day Discovery** – Experienced in **reverse engineering, fuzzing, and exploit development** for high-impact vulnerabilities.  
+- **Adversary Tactics, Techniques & Procedures (TTPs)** – Strong knowledge of **MITRE ATT&CK framework, red team methodologies, and advanced attack simulation**.  
+
+### **Certifications & Recognitions**  
+- **GIAC Certified Incident Handler (GCIH)** – Certified in **incident handling, adversary tactics, and intrusion detection**.  
+- **Patent in Anomalous Computer Activity Detection** – Developed **machine learning-based threat detection models**.  
+- **SANS Holiday Hack Winner** – Recognized for **offensive security expertise, red teaming, and complex vulnerability exploitation**.  
+
+---
+
+## **Professional Experience**  
+
+### **Amazon – Manager, Security Engineer, Proactive Security Operations**  
+📍 **Amazon Global Customer Service Security** | 📅 **12/2024 – Present**  
+- Founded and led **Proactive Security Operations (PSO)**, a **specialized purple team** bridging **blue and red team functions**.  
+- Designed and implemented **adversarial emulation frameworks**, combining **threat hunting, intelligence analysis, and covert/overt offensive testing**.  
+- Led **high-impact security assessments**, including **simulated adversary engagements, breach attack simulations, and custom exploit development**.  
+- Developed **custom automation and tooling** to enhance **continuous security monitoring and proactive threat detection**.  
+
+### **Amazon – Manager, Security Engineer, Threat Operations**  
+📍 **Amazon Global Customer Service Security** | 📅 **12/2022 – 12/2024**  
+- Spearheaded security initiatives, reducing **incident response triage times by 96%** (from **52 days to 2 days**).  
+- Led and managed **four security teams** across **threat operations, incident response, red teaming, legal, and data protection**.  
+- Focused on **building an inclusive, high-performance security organization**, fostering **innovation and operational efficiency**.  
+
+### **Amazon – Manager, Security Engineer, CSIRT**  
+📍 **Amazon Global Customer Service Security** | 📅 **7/2021 – 12/2022**  
+- Established and led a **new incident response team**, improving Amazon’s **global customer service security**.  
+- Developed **tactical incident response protocols**, enabling rapid detection and mitigation of security threats.  
+
+### **TMC Healthcare – Senior Security Engineer**  
+📍 **TMC Healthcare** | 📅 **2011 – 2018**  
+- Established and built **TMC’s first formal information security program**.  
+- Conducted **penetration tests** and developed **HIPAA-compliant security policies**.  
+- Led **incident response** and deployed **security controls** across medical systems and applications.  
+
+---
+
+## **Patents & Publications**  
+- **Patent:** *Anomalous Computer Activity Detection and Prevention (US 12058157)*  
+- **Publication:** *Protecting Healthcare Data (SANS Secure the Human 2015)*  
+
+## **Honors & Awards**  
+- 🏆 **SANS Holiday Hack Winner – Most Creative (2014)**  
+- 🏅 **SANS Holiday Hack Super Honorable Mention (2016, 2017)**  
+
+## **Relevant Volunteer Work**  
+- 🧩 **Neurodivergent Career Mentor**
+- 🎗️ **Transitioning Military Mentor**  
+- 🏆 **Counter Hack Challenges: CTF Game Contributor & Artist (2016, 2017)**  
+- 💻 **Microsoft TEALS Volunteer Computer Science Teacher**  
+
+---
+
+## **Military Experience**  
+### **United States Army – Specialist, 31R Multichannel Transmission Systems Operator**  
+📅 **1995 – 1999**  
+- Operated and secured **high-frequency (HF) and very-high-frequency (VHF) multichannel transmission systems**.  
+- Led **Quick Reaction Force (QRF)**, developing **early leadership skills in site defense and response operations**.  
+
+---
+
+### **Education & Certifications**  
+📜 **SANS SEC-660, SEC-642, SEC-560, SEC-504, SEC-575, FOR-500**  
+📜 **AWS Certified – Architecting on AWS, AWS Cloud Practitioner**  
+📜 **GIAC Certified Incident Handler (GCIH)**  
+
+---

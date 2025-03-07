@@ -21,6 +21,8 @@ This site serves as my digital space to share my projects, resume, and research.
 
 If you're interested in collaborating, discussing security topics, or just geeking out over offensive security, hardware hacking, security leadership, or breaking things in general (ethically, of course!), feel free to connect with me!
 
+📄 Interested in my professional experience? Check out my [[resume]]
+
 🚀 Let’s build and break security together!
 
 📧 Email me - the.m1ck(at)proton.me
