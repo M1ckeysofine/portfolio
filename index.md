@@ -1,9 +1,9 @@
 ---
 layout: default
 ---
- # 👋 Welcome to My Digital Space  
+ # 👋 Hi I'm Mick
 
-I’m **Mick Cecil**—a **Security Engineer, Penetration Tester, and SecOps Leader** with a passion for **offensive security, vulnerability research, and building resilient security programs**. With over **15 years in information security**, I specialize in **breaking systems to make them stronger** through **penetration testing, threat operations, and strategic security initiatives**.  
+I’m a **Security Engineer, Penetration Tester, and SecOps Leader** with a passion for **offensive security, vulnerability research, and building resilient security programs**. With over **15 years in information security**, I specialize in **breaking systems to make them stronger** through **penetration testing, threat operations, and strategic security initiatives**.  
 
 My security journey spans **leading high-impact security teams**, executing **large-scale offensive security engagements**, and shaping security strategies at **Amazon’s retail security division**. My expertise also extends to the **healthcare and hospitality industries**, where I’ve built and enhanced security programs at scale.  
 
