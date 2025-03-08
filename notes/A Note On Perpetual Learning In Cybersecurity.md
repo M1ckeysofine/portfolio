@@ -54,5 +54,6 @@ Cybersecurity is not just a job—it’s a mindset. Staying ahead requires perpe
 **Further Reading:**  
 - [Born to Win, Schooled to Lose](https://cew.georgetown.edu/wp-content/uploads/FR-Born_to_win-schooled_to_lose.pdf)  
 - [Education & Income Disparities](https://www.wbur.org/hereandnow/2018/08/27/public-private-school-family-income-study)  
+- [Belief in Learning Styles Myth May Be Detrimental](https://www.apa.org/news/press/releases/2019/05/learning-styles-myth)
 - [Growing Up with Undiagnosed Autism in the 1990s](https://www.kennedykrieger.org/stories/interactive-autism-network-ian/lost-generation-growing-up-autism-before-epidemic)  
 - [Autism and the Changing Diagnostic Landscape](https://en.wikipedia.org/wiki/Epidemiology_of_autism)  
