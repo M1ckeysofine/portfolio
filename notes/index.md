@@ -5,5 +5,6 @@ title: Mick's Thoughts
 This is where I put projects, ideas, thoughts about things I am working on that I don't want to misplace
 
 [[Cybersecurity Laws Regulation and Standards Cheat Sheet]]\
+[[Common Cybersecurity Roles]]\
 [[SANS Holiday Hack Submissions]]\
 [[Mick Resume FAQ]]
