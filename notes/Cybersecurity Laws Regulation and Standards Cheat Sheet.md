@@ -1,5 +1,3 @@
-# Cybersecurity Laws, Regulation, & Standards Cheat Sheet
-
 # 🔐 Cybersecurity Laws, Regulations & Standards Cheat Sheet
 
 ## **1️⃣ Cybersecurity Laws & Regulations**

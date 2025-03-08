@@ -9,6 +9,10 @@ title: Mick's Resume
 
 ---
 
+[[Mick Resume FAQ]]
+
+---
+
 ## **Professional Summary**  
 Accomplished **Information Security Engineering Leader** with over **15 years of experience** in **strategic security operations, offensive security, threat hunting, and threat intelligence**.  
 
