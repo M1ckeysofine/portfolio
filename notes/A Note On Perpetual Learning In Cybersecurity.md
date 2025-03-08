@@ -2,7 +2,7 @@
 
 Cybersecurity is a field where learning never stops. From entry-level analysts to senior security architects, the rapid pace of technological advancements, emerging threats, and evolving best practices demand continuous education. However, navigating the sheer amount of information and identifying **the most effective learning strategies** can be challenging.  
 
-Many learners, especially self-taught professionals, struggle with **information overload, ineffective study methods, and the pressure to "keep up"** with ever-changing security trends. In this article, we’ll explore **science-backed techniques** that can **enhance memory, improve skill acquisition, and debunk common learning myths**—so you can **learn smarter, not harder**.
+Many learners, especially self-taught professionals, struggle with **information overload, ineffective study methods, and the pressure to "keep up"** with ever-changing security trends. I have set out to explore **science-backed techniques** that can **enhance memory, improve skill acquisition, and debunk common learning myths**—so you can **learn smarter, not harder**.
 
 ---
 
@@ -11,7 +11,7 @@ Many learners, especially self-taught professionals, struggle with **information
 At its core, learning is about **creating and retrieving memories**. If you’ve ever memorized a command like:
 
 ```bash
-mv oldfilename.txt newfilename.txt
+mv disfilename.txt datfilename.txt
 ```
 
 ...and later recalled it to rename a file without looking it up, you’ve successfully engaged in memory retrieval. But if you *forgot* that command and had to **Google it**, you’re not alone—our brains are wired to forget.
@@ -36,7 +36,7 @@ To manage this:
 For example, if you’re learning how to rename a file in Linux, the only important takeaway is:
 
 ```bash
-mv oldfilename.txt newfilename.txt  
+mv disfilename.txt datfilename.txt  
 ```
 
 Explaining that renaming is technically the same as moving a file to its original directory **adds extra mental load** without increasing understanding. Simplifying how we learn makes retention and application easier.
