@@ -8,3 +8,4 @@ This is where I put projects, ideas, thoughts about things I am working on that 
 [[Common Cybersecurity Roles]]\
 [[SANS Holiday Hack Submissions]]\
 [[Mick Resume FAQ]]
+[[A Note On Perpetual Learning In Cybersecurity]]
