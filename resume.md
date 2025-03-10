@@ -120,6 +120,7 @@ Holds a **patent in anomalous computer activity detection**, demonstrating exper
 - 🎗️ **Transitioning Military Mentor**  
 - 🏆 **Counter Hack Challenges: CTF Game Contributor & Artist (2016, 2017)**  
 - 💻 **Microsoft TEALS Volunteer Computer Science Teacher**  
+- 🛠️ **Amazon CTF Builder & Tester for ZonCon internal Security Conference (2019)**
 
 ---
 
