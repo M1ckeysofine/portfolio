@@ -14,6 +14,7 @@ Welcome to my CTF portfolio! Here I showcase some of the cybersecurity challenge
 In 2015, I solved all the technical challenges of the Holiday Hack **A Hacker’s Holiday** event, which earned me a **Super Honorable Mention** for creativity. I approached the challenges by thinking outside the box – for example, exploiting an IoT "Gnome" device and analyzing its network traffic in unexpected ways.
 
 <details><summary>**Technical Breakdown (2015)** – *Click to expand*</summary>  
+Interested in the detailed tech details? [[../ctf/sans-holiday-hack]]
   
 **Challenge Synopsis:** The 2015 challenge involved an IoT elf gnome (“Gnome in Your Home”) that players had to investigate. I reverse-engineered firmware to uncover hidden features and analyzed network packets between the gnome and Santa’s servers.  
   
@@ -43,4 +44,3 @@ The 2014 challenge had a story centered around Charles Dickens’ **A Christmas 
   
 </details>
 
-Interested in the specific tech details? [[sans-holiday-hack]]
