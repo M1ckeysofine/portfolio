@@ -17,7 +17,7 @@ title: Mick's Resume
 Accomplished **Information Security Engineering Leader** with over **15 years of experience** in **strategic security operations, offensive security, threat hunting, and threat intelligence**.  
 
 Built and led multiple high-impact security teams at **Amazon**, including:  
-- Led **Threat Operations for Amazon Global Customer Service Security**, overseeing **50+ engineers and analysts** across **incident response, automation, red teaming, and legal support functions**.  
+- Led **Threat Operations for Amazon Global Customer Service Security**, overseeing **50+ engineers and analysts** across **incident response, automation, red teaming, DevSecOps,threat hunting, and legal support functions**.  
 - Built **Amazon’s first Insider Threat Prevention Team** within Retail Security, focused on **proactive insider risk detection and mitigation**.  
 - Built and Led **Global Customer Service Security’s CSIRT**, strengthening Amazon’s ability to **rapidly detect, investigate, and respond** to security incidents at scale.  
 - Built ad Led **Proactive Security Operations (PSO)**, a **Purple Team bridging blue and red team functions**, specializing in **threat hunting, intelligence analysis, and adversarial emulation**.  
