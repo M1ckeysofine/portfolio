@@ -3,7 +3,7 @@ layout: default
 title: Mick's Resume
 ---
 
-# **Mick Cecil**  
+# **Mick C**  
 📍 United States | 📧 the.m1ck(at)proton.me |
 [🔗 LinkedIn](https://www.linkedin.com/in/mickeycecil) | [🌐 Website](https://mickcecil.com)  
 

@@ -6,12 +6,12 @@ Primarily for recruiters looking to break down my resume details. Here is the ch
 
 # Resume Frequently Asked Questions (FAQ)
 
-## What are Mick Cecil's primary areas of expertise in information security?
-Mick Cecil possesses over **15 years of experience** in information security, with a strong emphasis on **offensive security**, including **penetration testing, vulnerability research, and exploit development**. He also has significant expertise in **building and leading resilient security programs, threat hunting, incident response, security automation, and insider threat detection**. His technical skills extend to **web and application security, reverse engineering, hardware security, cloud security (especially AWS), and threat intelligence**.
+## What are Mick C's primary areas of expertise in information security?
+Mick C possesses over **15 years of experience** in information security, with a strong emphasis on **offensive security**, including **penetration testing, vulnerability research, and exploit development**. He also has significant expertise in **building and leading resilient security programs, threat hunting, incident response, security automation, and insider threat detection**. His technical skills extend to **web and application security, reverse engineering, hardware security, cloud security (especially AWS), and threat intelligence**.
 
 ---
 
-## What kind of leadership experience does Mick Cecil have in the security field?
+## What kind of leadership experience does Mick C have in the security field?
 Mick has **extensive leadership experience**, particularly at **Amazon**, where he **built and led multiple high-impact security teams**, including:
 - **Amazon's first Insider Threat Prevention Team** within Retail Security.
 - **Global Customer Service Security's CSIRT**, strengthening Amazon’s incident response capabilities.
@@ -22,7 +22,7 @@ He has a **proven track record** of developing security team talent and fosterin
 
 ---
 
-## What are some of Mick Cecil's key accomplishments at Amazon?
+## What are some of Mick C's key accomplishments at Amazon?
 During his tenure at Amazon, Mick:
 - **Conceived and built Amazon Retail Security's Insider Threat Program** from the ground up.
 - **Established and led the Global Customer Service Security’s CSIRT**.
@@ -32,8 +32,8 @@ During his tenure at Amazon, Mick:
 
 ---
 
-## Can you describe Mick Cecil's patent?
-Mick Cecil holds a **patent** titled **"Anomalous Computer Activity Detection and Prevention."**  
+## Can you describe Mick C's patent?
+Mick C holds a **patent** titled **"Anomalous Computer Activity Detection and Prevention."**  
 This invention focuses on detecting and preventing security threats such as **denial-of-service attacks, unauthorized access, and network intrusions**.  
 The system:
 - Uses **gradient-based data** to identify anomalous activity compared to historical trends.
@@ -42,7 +42,7 @@ The system:
 
 ---
 
-## What kind of security testing and offensive security experience does Mick Cecil have?
+## What kind of security testing and offensive security experience does Mick C have?
 Mick has **extensive experience in penetration testing** across multiple domains:
 - **Web, mobile, network, cloud, and infrastructure security testing**.
 - **Red team operations** and **purple team operations** (as demonstrated by his leadership of the PSO team).
@@ -52,7 +52,7 @@ Mick has **extensive experience in penetration testing** across multiple domains
 
 ---
 
-## How does Mick Cecil emphasize a proactive approach to security?
+## How does Mick C emphasize a proactive approach to security?
 Mick advocates for a **proactive security posture** by **integrating threat intelligence, red teaming, and security automation**.  
 His key initiatives include:
 - **Developing and deploying custom security tooling in Python** for **forensic evidence collection and automated security response**.
@@ -61,7 +61,7 @@ His key initiatives include:
 
 ---
 
-## What was Mick Cecil's security experience before joining Amazon?
+## What was Mick C's security experience before joining Amazon?
 Before Amazon, Mick held key **security roles** in the **healthcare and hospitality** sectors:
 - **TMC Healthcare**:  
   - Established and led the **first formal information security program**.  
@@ -73,7 +73,7 @@ Before Amazon, Mick held key **security roles** in the **healthcare and hospital
 
 ---
 
-## How does Mick Cecil engage with the broader security community?
+## How does Mick C engage with the broader security community?
 Mick actively **shares projects, research, and insights** on his website. He also:
 - Encourages **collaboration and discussions** on offensive security, hardware hacking, and security leadership.
 - Won the **SANS Holiday Hack Challenge**, demonstrating expertise in **exploit development and adversary simulation**.
