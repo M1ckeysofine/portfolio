@@ -17,13 +17,110 @@ Interested in the detailed tech details? <a href="../ctf/sans-holiday-hack" clas
 
 <details><summary>**Technical Breakdown (2015)** – *Click to expand*</summary>  
   
-**Challenge Synopsis:** The 2015 challenge involved an IoT elf gnome (“Gnome in Your Home”) that players had to investigate. I reverse-engineered firmware to uncover hidden features and analyzed network packets between the gnome and Santa’s servers.  
-  
-**Key Techniques Used:**  
-- *Firmware Analysis:* Extracted and decompiled the gnome’s firmware to find hardcoded credentials and backdoor functions.  
-- *Network Traffic Forensics:* Captured and inspected network packets. For example, I discovered an encrypted DNS tunnel. I wrote a custom Python script to decode the DNS exfiltration channel.  
-  
-**Notable Findings:** I creatively repurposed a firmware update mechanism to inject my own code, effectively turning the gnome against the challenge infrastructure (harmlessly, as part of the game). This novel method impressed the judges and demonstrated a real-world attack scenario.  
+# 🧩 Challenge Synopsis
+An advanced adversary deployed surveillance Gnomes globally disguised as holiday decorations. These IoT devices captured images and exfiltrated them via DNS to covert Command & Control (C2) servers. My mission: identify, analyze, and exploit the vulnerabilities in five globally distributed "SuperGnome" servers and uncover the larger plot.
+
+---
+
+# 🛠️ Key Techniques Used
+- 📡 **DNS Tunneling Analysis** – Intercepted Base64-encoded command and image exfiltration via DNS queries.
+- 🧩 **Firmware & Filesystem Extraction** – Used `binwalk` and `squashfs-tools` to extract and analyze the Gnome OS.
+- 🕸️ **Web Application Exploitation** – Exploited NoSQL injection, file traversal, and command injection vulnerabilities.
+- 🔓 **Database Analysis** – Accessed MongoDB directly to extract credentials and sensitive configuration.
+- 📦 **Reverse Engineering** – Analyzed binaries, bypassed stack canaries, used ROP gadgets to gain execution control.
+- 🌍 **Shodan Reconnaissance** – Identified C2 servers via unique HTTP headers.
+- 🧪 **Custom Payload Development** – Crafted shellcode using Metasploit and delivered it via Netcat.
+- 🧮 **Image XOR Decryption** – Used ImageMagick to XOR multiple PNGs and reveal the villain's identity.
+
+---
+
+# 🧠 Detailed Technical Findings
+
+## SG-01 – Ashburn, USA
+- 🔓 **Weak Credential Management**  
+  - Logged in using default credentials: `admin : SittingOnAShelf`
+  - Downloaded sensitive files from `/gnome/www/files/`
+
+## SG-02 – Boardman, USA
+- 📁 **Directory Traversal via Filename Injection**  
+  - Exploited insufficient sanitization in upload path.
+  - Bypassed `.png` check to traverse directories:
+    ```
+    GET /cam?camera=../../../[path]/.png/../../../../files/gnome.conf
+    ```
+
+## SG-03 – Sydney, Australia
+- 💉 **NoSQL Injection**
+  - Crafted POST request:
+    ```json
+    {"username": "admin", "password": { "$gt": "" }}
+    ```
+  - Gained admin access via forged session cookie.
+
+## SG-04 – Tokyo, Japan
+- 🧬 **Command Injection via `eval()`**
+  - Injected Node.js in `postproc()`:
+    ```js
+    require('fs').readFileSync('files/gnome.conf')
+    ```
+  - Delivered reverse shell via `netcat`.
+
+## SG-05 – São Paulo, Brazil
+- 💥 **Buffer Overflow (Port 4242)**
+  - Exploited a hidden command input with:
+    - Stack canary bypass
+    - JMP ESP gadget
+    - Custom shellcode
+  - Resulted in remote shell with file transfer capabilities.
+
+---
+
+# 🧨 History of Exploited Vulnerabilities
+
+- **Default Credentials** – Common across early IoT and database deployments (notably MongoDB pre-2.6).
+- **NoSQL Injection** – First surfaced around 2013; especially dangerous in MongoDB due to JSON query flexibility.
+- **Command Injection** – OWASP Top 10 vulnerability for over a decade; use of `eval()` is strongly discouraged.
+- **Directory Traversal** – Known since the 90s; still widely exploited due to improper input validation.
+- **Buffer Overflows** – Among the oldest forms of exploitation, still viable when stack protections are misconfigured.
+
+---
+
+# 🛡️ Recommendations to Mitigate
+
+1. **Credential Management**
+   - Enforce strong passwords
+   - Never store passwords in plaintext
+
+2. **Sanitize User Input**
+   - Use parameterized queries and safe serialization
+   - Avoid `eval()` in any backend service
+
+3. **Database Hardening**
+   - Require authentication
+   - Implement role-based access controls
+
+4. **Firmware Security**
+   - Encrypt sensitive files
+   - Validate integrity pre-deployment
+
+5. **Web Application Firewalls (WAF)**
+   - Deploy WAFs to mitigate injection and traversal attacks
+
+6. **Exploit Mitigations**
+   - Properly implement ASLR, DEP, and stack canaries
+   - Avoid static return addresses and hardcoded secrets
+
+7. **DNS Monitoring**
+   - Watch for anomalous DNS activity suggesting tunneling
+   - Log and alert on Base64 patterns in DNS queries
+
+8. **Incident Response Readiness**
+   - Build playbooks for embedded device threats
+   - Train staff in analyzing C2 traffic and reverse engineering binaries
+
+---
+
+> 🔍 _“Unless someone like you cares a whole awful lot, nothing is going to get better. It’s not.” – Dr. Seuss_
   
 </details>
 
