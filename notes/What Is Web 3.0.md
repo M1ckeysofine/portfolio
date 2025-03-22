@@ -105,3 +105,7 @@ Build it smart. Build it secure. Build it together.
 ---
 
 *Thanks for reading! If you found this valuable, let’s connect—I'm always up for a good nerdy conversation* ☕
+
+---
+
+*Note: All thoughts presented are my own and not a representation of the opinions of any employer*
