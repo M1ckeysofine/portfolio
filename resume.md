@@ -17,10 +17,11 @@ title: Mick's Resume
 Accomplished **Information Security Engineering Leader** with over **15 years of experience** in **strategic security operations, offensive security, threat hunting, and threat intelligence**.  
 
 Built and led multiple high-impact security teams at **Amazon**, including:  
-- **Amazon’s first Insider Threat Prevention Team** within Retail Security, focused on **proactive insider risk detection and mitigation**.  
-- **Global Customer Service Security’s CSIRT**, strengthening Amazon’s ability to **rapidly detect, investigate, and respond** to security incidents at scale.  
-- **Proactive Security Operations (PSO)**, a **Purple Team bridging blue and red team functions**, specializing in **threat hunting, intelligence analysis, and adversarial emulation**.  
-- **Threat Operations for Amazon Global Customer Service Security**, overseeing **50+ engineers and analysts** across **incident response, automation, red teaming, and legal support functions**.  
+- Led **Threat Operations for Amazon Global Customer Service Security**, overseeing **50+ engineers and analysts** across **incident response, automation, red teaming, and legal support functions**.  
+- Built **Amazon’s first Insider Threat Prevention Team** within Retail Security, focused on **proactive insider risk detection and mitigation**.  
+- Built and Led **Global Customer Service Security’s CSIRT**, strengthening Amazon’s ability to **rapidly detect, investigate, and respond** to security incidents at scale.  
+- Built ad Led **Proactive Security Operations (PSO)**, a **Purple Team bridging blue and red team functions**, specializing in **threat hunting, intelligence analysis, and adversarial emulation**.  
+
 
 Holds a **patent in anomalous computer activity detection**, demonstrating expertise in **behavioral threat modeling, automation, and security innovation**. Recognized as a **SANS Holiday Hack Winner**, excelling in **offensive security techniques, exploit development, and adversary simulation**. Passionate about **building and leading high-performance security teams**, driving **offensive security research**, and enhancing **enterprise security resilience** through **automation and strategic threat management**.  
 
