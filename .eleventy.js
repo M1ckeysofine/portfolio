@@ -4,7 +4,25 @@ module.exports = function(eleventyConfig) {
         html: true,
         linkify: true
     };
+
+    const { DateTime } = require("luxon");
+
+    module.exports = function (eleventyConfig) {
+      // Add date filter for Nunjucks
+      eleventyConfig.addFilter("date", (dateObj, format = "yyyy-MM-dd") => {
+        return DateTime.fromJSDate(dateObj, { zone: 'utc' }).toFormat(format);
+      });
     
+      return {
+        dir: {
+          input: ".",
+          includes: "_includes",
+          data: "_data",
+          output: "_site"
+        }
+      };
+    };
+
     const md = markdownIt(markdownItOptions)
     .use(require('markdown-it-footnote'))
     .use(require('markdown-it-attrs'))
