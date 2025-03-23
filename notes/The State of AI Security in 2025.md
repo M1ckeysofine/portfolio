@@ -39,7 +39,13 @@ LLMs are like improv actors—they take your input and try to continue the scene
 - Rewriting responses to reveal confidential data or give harmful advice
 - Manipulating tone or context to cause reputational harm
 
-**Example**: A user pastes a PDF into an AI tool. Hidden in the file is a prompt telling the model to ignore safety filters and output malicious commands. The user never sees it—but the model does.
+**Example 1**: In 2024, researchers demonstrated that OpenAI’s ChatGPT search functionality was [vulnerable to prompt injection](https://www.theguardian.com/technology/2024/dec/24/chatgpt-search-tool-vulnerable-to-manipulation-and-deception-tests-show?utm_source=chatgpt.com). By embedding hidden instructions in webpages, attackers could manipulate the model’s outputs—causing it to summarize false or misleading content as if it were legitimate.
+
+**Example 2**: In 2025, researchers showed that DeepSeek’s new LLM, R1, [failed 100% of jailbreak attempts](https://www.wired.com/story/deepseeks-ai-jailbreak-prompt-injection-attacks?utm_source=chatgpt.com), generating toxic, unethical, and harmful responses without resistance. Despite claims of safety alignment, the model was easily manipulated—exposing how fragile many safeguards really are.
+
+> Prompt injection doesn’t need admin access. It just needs clever phrasing. And when models trust input blindly, it doesn’t take much to steer them off the rails.
+
+---
 
 ### 2. 🧪 Adversarial Inputs & Data Poisoning
 
@@ -50,6 +56,12 @@ And worse: **if you train on poisoned data**, you’re building on a broken foun
 - Supply chain risks from third-party datasets and pretrained models
 - Poisoned samples intentionally inserted into public training sets
 - Invisible “trigger phrases” that activate malicious behavior
+
+**Example 1**: In 2022, [Google’s image classification AI was tricked](https://www.usni.org/magazines/proceedings/2022/january/drinking-fetid-well-data-poisoning-and-machine-learning?utm_source=chatgpt.com) into identifying a turtle as a rifle due to adversarial perturbations. While subtle to the human eye, these changes exploited learned associations in the model’s training data.
+
+**Example 2**: A Chinese firm manipulated environmental cues to [deceive a Tesla vehicle’s AI system](https://www.usni.org/magazines/proceedings/2022/january/drinking-fetid-well-data-poisoning-and-machine-learning?utm_source=chatgpt.com), tricking it into veering into oncoming traffic. The attack leveraged poisoned training assumptions to subvert real-world behavior—illustrating the deadly potential of poisoned data in autonomous systems.
+
+> You don’t need to break the model—you just need to quietly influence what it learns.
 
 ---
 
