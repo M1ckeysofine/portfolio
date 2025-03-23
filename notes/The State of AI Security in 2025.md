@@ -96,7 +96,7 @@ This isn’t just a UX problem—it’s a **security liability**. Especially whe
 
 The solution isn’t just to make AI more accurate—it’s to build systems that **signal uncertainty**, include human oversight, and avoid pretending the model is something it’s not.
 
-### 💔 Emotional Exploitation & Blackmail Vectors
+### 5. 💔 Emotional Exploitation & Blackmail Vectors
 
 AI companion tools and romantic chatbots are gaining massive popularity—apps like Replika, EVA AI, and other LLM-powered avatars that simulate romantic intimacy. But these aren’t just harmless flirt bots. The risks here are deeply personal—and dangerously underregulated.
 
