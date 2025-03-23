@@ -18,8 +18,8 @@ Let’s get one thing straight: most devs *want* to build secure systems. But in
 
 - 🚀 **Time-to-market pressure**: Launching first can mean market dominance, especially with venture-backed products.  
 - 🧠 **Model complexity**: Unlike traditional software, ML models are harder to interpret, test, and debug. And security testing for models? Still a niche skillset.  
-- 🛠️ **Immature tooling**: There’s no standardized “AI threat model,” and red teaming tools are still evolving.  
-- 🧾 **No official checklist**: There’s no OWASP Top 10 for LLMs—yet. Many teams don’t even know what to look for.  
+- 🛠️ **Immature tooling**: There’s no universally adopted “AI threat model,” and red teaming tools are still evolving.  
+- 🧾 **Fragmented guidance**: Until recently, there was no formal equivalent of the OWASP Top 10 for LLMs. That changed in late 2024, when [OWASP released its first Top 10 for LLM Applications](https://genai.owasp.org/resource/owasp-top-10-for-llm-applications-2025/)—a huge step toward clearer security expectations for GenAI developers.
 
 In short, the industry is sprinting, and even well-meaning developers are being told to ignore the potholes on the track.
 
