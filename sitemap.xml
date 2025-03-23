@@ -1,17 +1,92 @@
----
-permalink: /sitemap.xml
-eleventyExcludeFromCollections: true
----
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  {% for page in collections.all %}
-    {% if page.url and not page.data.noindex %}
-    <url>
-      <loc>{{ "https://mickcecil.com" | url }}{{ page.url | url }}</loc>
-      {% if page.date %}
-      <lastmod>{{ page.date | date("yyyy-MM-dd") }}</lastmod>
-      {% endif %}
-    </url>
-    {% endif %}
-  {% endfor %}
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://mickcecil.com/</loc>
+  <lastmod>2025-03-23T16:53:50+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://mickcecil.com/about/</loc>
+  <lastmod>2025-03-23T16:53:50+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://mickcecil.com/notes/</loc>
+  <lastmod>2025-03-23T16:53:50+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://mickcecil.com/ctf/</loc>
+  <lastmod>2025-03-23T16:53:50+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://mickcecil.com/resume/</loc>
+  <lastmod>2025-03-23T16:53:50+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://mickcecil.com/notes/The%20State%20of%20AI%20Security%20in%202025/</loc>
+  <lastmod>2025-03-23T16:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://mickcecil.com/notes/What%20Is%20Web%203.0/</loc>
+  <lastmod>2025-03-23T16:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://mickcecil.com/notes/AWS%20Security%20Tips/</loc>
+  <lastmod>2025-03-23T16:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://mickcecil.com/notes/Cybersecurity%20Laws%20Regulation%20and%20Standards%20Cheat%20Sheet/</loc>
+  <lastmod>2025-03-23T16:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://mickcecil.com/notes/Common%20Cybersecurity%20Roles/</loc>
+  <lastmod>2025-03-23T16:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://mickcecil.com/notes/SANS%20Holiday%20Hack%20Submissions/</loc>
+  <lastmod>2025-03-23T16:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://mickcecil.com/notes/Mick%20Resume%20FAQ/</loc>
+  <lastmod>2025-03-23T16:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://mickcecil.com/notes/A%20Note%20On%20Perpetual%20Learning%20In%20Cybersecurity/</loc>
+  <lastmod>2025-03-23T16:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://mickcecil.com/ctf/sans-holiday-hack/</loc>
+  <lastmod>2025-03-23T16:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://mickcecil.com/assets/HH2014_TARDIS-Scrooge-Report_No_Links.pdf</loc>
+  <lastmod>2025-03-23T16:53:50+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://mickcecil.com/assets/MickCecil_HH15_Submission.pdf</loc>
+  <lastmod>2025-03-23T16:53:50+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+
+
 </urlset>
