@@ -1,4 +1,4 @@
-import { DateTime } from "luxon";
+const { DateTime } = require("luxon");
 
 module.exports = function(eleventyConfig) {
     const markdownIt = require('markdown-it');
@@ -30,7 +30,7 @@ module.exports = function(eleventyConfig) {
     eleventyConfig.addFilter("date", (dateObj, format = "yyyy-MM-dd") => {
         if (!dateObj) return "";
         return DateTime.fromJSDate(dateObj, { zone: 'utc' }).toFormat(format);
-      });
+      });    
 
     eleventyConfig.setLibrary('md', md);
     
