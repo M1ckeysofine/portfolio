@@ -45,7 +45,6 @@ LLMs are like improv actors—they take your input and try to continue the scene
 
 > Prompt injection doesn’t need admin access. It just needs clever phrasing. And when models trust input blindly, it doesn’t take much to steer them off the rails.
 
----
 
 ### 2. 🧪 Adversarial Inputs & Data Poisoning
 
@@ -63,7 +62,6 @@ And worse: **if you train on poisoned data**, you’re building on a broken foun
 
 > You don’t need to break the model—you just need to quietly influence what it learns.
 
----
 
 ### 3. 🧠 Model Leakage & Inference Attacks
 
@@ -81,7 +79,6 @@ If your AI was trained on private or proprietary data, that data might still be 
 
 **Remember**: These models don’t forget unless you make them. And your training data isn’t safe just because your firewall is.
 
----
 ### 4. 🧑‍⚖️ Overtrusting AI Output
 
 AI is great at sounding confident. That’s not the same as being correct.
