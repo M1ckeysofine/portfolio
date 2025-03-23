@@ -145,3 +145,7 @@ We need:
 
 *Thanks for reading! Want to chat about AI, attack surfaces, or adversarial Pokémon strategies? I’m always game.* 🛡️⚔️
 """
+
+---
+
+*Note: All thoughts presented are my own and not a representation of the opinions of any employer*
