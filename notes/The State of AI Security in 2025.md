@@ -98,14 +98,31 @@ The solution isn’t just to make AI more accurate—it’s to build systems tha
 
 ### 💔 Emotional Exploitation & Blackmail Vectors
 
-AI companion tools and romantic chatbots are gaining massive popularity. But these aren’t just harmless flirt bots. The risks here are deeply personal—and dangerously underregulated.
+AI companion tools and romantic chatbots are gaining massive popularity—apps like Replika, EVA AI, and other LLM-powered avatars that simulate romantic intimacy. But these aren’t just harmless flirt bots. The risks here are deeply personal—and dangerously underregulated.
 
-- 📝 **PII Leakage**: Users frequently share real names, explicit fantasies, mental health struggles, and even compromising media.
-- 🎭 **Persona Hijacking**: Attackers could spoof or clone popular AI personalities.
-- 📸 **Data Harvesting at Scale**: Emotional data could be breached or harvested intentionally.
-- 📞 **Now with Video Calls**: Some AI romance platforms now offer video chat, with no clear data protections.
+- 📝 **PII Leakage**: Users frequently share real names, explicit fantasies, mental health struggles, location data—even compromising photos or videos—with these AI personas.
+- 🎭 **Persona Hijacking**: Attackers could spoof or clone popular AI personalities to manipulate users emotionally or extract sensitive content.
+- 📸 **Data Harvesting at Scale**: These platforms collect massive amounts of emotionally vulnerable interaction data. If breached—or intentionally harvested—this data could fuel targeted manipulation, stalking, or blackmail.
+- 📞 **Now with Video Calls**: Some AI romance platforms have launched **video call features**, letting users interact with synthetic partners face-to-face. But few platforms disclose whether these calls are being recorded, where data is stored, or how it's protected.
 
-> In December 2022, the [FBI issued a national public safety alert](https://www.fbi.gov/news/press-releases/press-releases/fbi-and-partners-issue-national-public-safety-alert-on-financial-sextortion-schemes) warning of increased sextortion scams. AI-generated personas could scale this threat dramatically.
+There are **no widely enforced regulations** requiring:
+- Verified consent for recording or storing intimate interactions
+- Age verification or identity checks
+- Transparent data retention or deletion policies
+
+This creates a disturbing potential for **AI-fueled sextortion**, particularly among lonely or emotionally vulnerable individuals. And if minors are involved, the risks escalate even more dramatically.
+
+> In December 2022, the [FBI issued a national public safety alert](https://www.fbi.gov/news/press-releases/press-releases/fbi-and-partners-issue-national-public-safety-alert-on-financial-sextortion-schemes) warning about an increase in sextortion schemes targeting children and teens. AI-generated personas could amplify that threat by automating grooming tactics or scaling deception across platforms.
+
+These aren't just hypotheticals—real-world examples are already here:
+
+- In 2023, the [FBI warned](https://www.pcmag.com/news/fbi-scammers-using-public-photos-videos-for-deepfake-extortion-schemes?utm_source=chatgpt.com) that scammers were using AI to create deepfake explicit videos from publicly available photos, then blackmailing victims with fabricated content.
+- That same year, scammers began creating [AI-generated fake news videos](https://www.wired.com/story/scammers-are-creating-fake-news-videos-to-blackmail-victims?utm_source=chatgpt.com) that falsely accused people of crimes to extort or intimidate them.
+- In Australia, a woman became a victim of [deepfake pornography created without her consent](https://www.news.com.au/lifestyle/real-life/news-life/sydney-woman-reveals-devastating-impact-of-deepfake-porn-betrayal/news-story/73b8d95ff4d042e0f2137609ca97635a?utm_source=chatgpt.com), illustrating the emotional and reputational toll such technology can have.
+
+> The risk isn't just high-impact—it's high-likelihood. The tools to cause this kind of harm are cheap, public, and spreading fast.
+
+We’re heading into a future where emotional trust in AI could be used as a weapon—and we’re not ready for the consequences.
 
 ---
 
