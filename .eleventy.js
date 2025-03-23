@@ -5,11 +5,14 @@ module.exports = function(eleventyConfig) {
         linkify: true
     };
 
-    const { DateTime } = require("luxon");
+    import { DateTime } from "luxon";
 
-    module.exports = function (eleventyConfig) {
-      // Add date filter for Nunjucks
+    /** @param {import("@11ty/eleventy/src/UserConfig")} eleventyConfig */
+    export default function(eleventyConfig) {
+    
+      // Add a Nunjucks date filter
       eleventyConfig.addFilter("date", (dateObj, format = "yyyy-MM-dd") => {
+        if (!dateObj) return "";
         return DateTime.fromJSDate(dateObj, { zone: 'utc' }).toFormat(format);
       });
     
@@ -21,7 +24,8 @@ module.exports = function(eleventyConfig) {
           output: "_site"
         }
       };
-    };
+    }
+    
 
     const md = markdownIt(markdownItOptions)
     .use(require('markdown-it-footnote'))
