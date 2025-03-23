@@ -40,6 +40,8 @@ module.exports = function(eleventyConfig) {
     
     eleventyConfig.addPassthroughCopy('assets');
     eleventyConfig.setUseGitIgnore(false);
+    eleventyConfig.addPassthroughCopy("robots.txt");
+
 
     return {
         dir: {
