@@ -184,6 +184,28 @@ The U.S. has no federal AI law yet, but several key agencies have issued guidanc
 
 ---
 
+### 🗂️ AI, Privacy Laws, and Data Subject Rights
+
+AI security isn't just about preventing breaches—it's also about **legal compliance**. Regulations such as the **GDPR** (Europe) and **CCPA** (California) consider training data as personal data when it includes identifiable information.
+
+> If a user submits their information to an AI model—like uploading a document or interacting with a chatbot—and later files a **Data Subject Access Request (DSAR)**, the organization may be legally required to locate, report, or delete that data.
+
+Organizations utilizing personal data in training, fine-tuning, or inference processes need to:
+
+- **Conduct Data Protection Impact Assessments (DPIAs):** Before processing personal data with AI technologies, especially when high risks to individual rights are possible, organizations are required to perform DPIAs to evaluate and mitigate potential impacts. ([dataprotectionpeople.com](https://dataprotectionpeople.com/resource-centre/how-to-ensure-gdpr-compliance-when-using-ai/?utm_source=chatgpt.com))
+
+- **Maintain Data Traceability:** To comply with DSARs, organizations must be able to identify and retrieve personal data within their AI systems, including data used for training models, ensuring they can fulfill access, correction, or deletion requests. ([oecd.ai](https://oecd.ai/en/wonk/gdpr-data-access-requests?utm_source=chatgpt.com))
+
+- **Implement Deletion Workflows:** Develop strategies for updating or retraining AI models when personal data is deleted to prevent residual data from influencing outputs.
+
+- **Ensure Transparency Measures:** Clearly inform consumers about how their data will be used in AI processing, aligning with principles of transparency and accountability.
+
+> In 2024, California clarified that LLMs storing or generating personal information must honor deletion and access requests—even for inferred data. ([oag.ca.gov](https://oag.ca.gov/privacy/ccpa?utm_source=chatgpt.com))
+
+AI isn't exempt from privacy laws; if anything, it's at the **forefront** of regulatory scrutiny.
+
+---
+
 ### 🤯 The Developer’s Dilemma
 
 For developers and product teams, this fragmented landscape creates uncertainty:
