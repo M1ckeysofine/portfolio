@@ -39,11 +39,11 @@ LLMs are like improv actors—they take your input and try to continue the scene
 - Rewriting responses to reveal confidential data or give harmful advice
 - Manipulating tone or context to cause reputational harm
 
-**Example 1**: In 2024, researchers demonstrated that OpenAI’s ChatGPT search functionality was [vulnerable to prompt injection](https://www.theguardian.com/technology/2024/dec/24/chatgpt-search-tool-vulnerable-to-manipulation-and-deception-tests-show?utm_source=chatgpt.com). By embedding hidden instructions in webpages, attackers could manipulate the model’s outputs—causing it to summarize false or misleading content as if it were legitimate.
+> In 2024, researchers demonstrated that OpenAI’s ChatGPT search functionality was [vulnerable to prompt injection](https://www.theguardian.com/technology/2024/dec/24/chatgpt-search-tool-vulnerable-to-manipulation-and-deception-tests-show?utm_source=chatgpt.com). By embedding hidden instructions in webpages, attackers could manipulate the model’s outputs—causing it to summarize false or misleading content as if it were legitimate.
 
-**Example 2**: In 2025, researchers showed that DeepSeek’s new LLM, R1, [failed 100% of jailbreak attempts](https://www.wired.com/story/deepseeks-ai-jailbreak-prompt-injection-attacks?utm_source=chatgpt.com), generating toxic, unethical, and harmful responses without resistance. Despite claims of safety alignment, the model was easily manipulated—exposing how fragile many safeguards really are.
+> In 2025, researchers showed that DeepSeek’s new LLM, R1, [failed 100% of jailbreak attempts](https://www.wired.com/story/deepseeks-ai-jailbreak-prompt-injection-attacks?utm_source=chatgpt.com), generating toxic, unethical, and harmful responses without resistance. Despite claims of safety alignment, the model was easily manipulated—exposing how fragile many safeguards really are.
 
-> Prompt injection doesn’t need admin access. It just needs clever phrasing. And when models trust input blindly, it doesn’t take much to steer them off the rails.
+Prompt injection doesn’t need admin access. It just needs clever phrasing. And when models trust input blindly, it doesn’t take much to steer them off the rails.
 
 
 ### 2. 🧪 Adversarial Inputs & Data Poisoning
@@ -56,11 +56,11 @@ And worse: **if you train on poisoned data**, you’re building on a broken foun
 - Poisoned samples intentionally inserted into public training sets
 - Invisible “trigger phrases” that activate malicious behavior
 
-**Example 1**: In 2022, [Google’s image classification AI was tricked](https://www.usni.org/magazines/proceedings/2022/january/drinking-fetid-well-data-poisoning-and-machine-learning?utm_source=chatgpt.com) into identifying a turtle as a rifle due to adversarial perturbations. While subtle to the human eye, these changes exploited learned associations in the model’s training data.
+> In 2022, [Google’s image classification AI was tricked](https://www.usni.org/magazines/proceedings/2022/january/drinking-fetid-well-data-poisoning-and-machine-learning?utm_source=chatgpt.com) into identifying a turtle as a rifle due to adversarial perturbations. While subtle to the human eye, these changes exploited learned associations in the model’s training data.
 
-**Example 2**: A Chinese firm manipulated environmental cues to [deceive a Tesla vehicle’s AI system](https://www.usni.org/magazines/proceedings/2022/january/drinking-fetid-well-data-poisoning-and-machine-learning?utm_source=chatgpt.com), tricking it into veering into oncoming traffic. The attack leveraged poisoned training assumptions to subvert real-world behavior—illustrating the deadly potential of poisoned data in autonomous systems.
+> A Chinese firm manipulated environmental cues to [deceive a Tesla vehicle’s AI system](https://www.usni.org/magazines/proceedings/2022/january/drinking-fetid-well-data-poisoning-and-machine-learning?utm_source=chatgpt.com), tricking it into veering into oncoming traffic. The attack leveraged poisoned training assumptions to subvert real-world behavior—illustrating the deadly potential of poisoned data in autonomous systems.
 
-> You don’t need to break the model—you just need to quietly influence what it learns.
+You don’t need to break the model—you just need to quietly influence what it learns.
 
 
 ### 3. 🧠 Model Leakage & Inference Attacks
@@ -71,11 +71,11 @@ If your AI was trained on private or proprietary data, that data might still be 
 - LLMs might leak data they “remember” from training  
 - Fine-tuned models often overfit and expose internal behavior
 
-**Example 1**: In 2023, Samsung employees unintentionally [leaked confidential code and internal data](https://www.prompt.security/blog/8-real-world-incidents-related-to-ai?utm_source=chatgpt.com) into ChatGPT while using it for debugging. Once submitted, the data became part of OpenAI’s training pipeline, raising major concerns about information reuse and model memory.
+> In 2023, Samsung employees unintentionally [leaked confidential code and internal data](https://www.prompt.security/blog/8-real-world-incidents-related-to-ai?utm_source=chatgpt.com) into ChatGPT while using it for debugging. Once submitted, the data became part of OpenAI’s training pipeline, raising major concerns about information reuse and model memory.
 
-**Example 2**: That same year, Microsoft AI researchers [accidentally exposed 38TB of internal data](https://www.wiz.io/blog/38-terabytes-of-private-data-accidentally-exposed-by-microsoft-ai-researchers?utm_source=chatgpt.com)—including passwords and Teams messages—via a misconfigured Azure Storage URL tied to open-source AI work.
+> That same year, Microsoft AI researchers [accidentally exposed 38TB of internal data](https://www.wiz.io/blog/38-terabytes-of-private-data-accidentally-exposed-by-microsoft-ai-researchers?utm_source=chatgpt.com)—including passwords and Teams messages—via a misconfigured Azure Storage URL tied to open-source AI work.
 
-> These weren’t hackers—they were developers trying to move fast. And in both cases, the AI environment became the breach vector.
+These weren’t hackers—they were developers trying to move fast. And in both cases, the AI environment became the breach vector.
 
 **Remember**: These models don’t forget unless you make them. And your training data isn’t safe just because your firewall is.
 
@@ -113,11 +113,11 @@ This creates a disturbing potential for **AI-fueled sextortion**, particularly a
 
 These aren't just hypotheticals—real-world examples are already here:
 
-- In 2023, the [FBI warned](https://www.pcmag.com/news/fbi-scammers-using-public-photos-videos-for-deepfake-extortion-schemes?utm_source=chatgpt.com) that scammers were using AI to create deepfake explicit videos from publicly available photos, then blackmailing victims with fabricated content.
-- That same year, scammers began creating [AI-generated fake news videos](https://www.wired.com/story/scammers-are-creating-fake-news-videos-to-blackmail-victims?utm_source=chatgpt.com) that falsely accused people of crimes to extort or intimidate them.
-- In Australia, a woman became a victim of [deepfake pornography created without her consent](https://www.news.com.au/lifestyle/real-life/news-life/sydney-woman-reveals-devastating-impact-of-deepfake-porn-betrayal/news-story/73b8d95ff4d042e0f2137609ca97635a?utm_source=chatgpt.com), illustrating the emotional and reputational toll such technology can have.
+> In 2023, the [FBI warned](https://www.pcmag.com/news/fbi-scammers-using-public-photos-videos-for-deepfake-extortion-schemes?utm_source=chatgpt.com) that scammers were using AI to create deepfake explicit videos from publicly available photos, then blackmailing victims with fabricated content.
+> That same year, scammers began creating [AI-generated fake news videos](https://www.wired.com/story/scammers-are-creating-fake-news-videos-to-blackmail-victims?utm_source=chatgpt.com) that falsely accused people of crimes to extort or intimidate them.
+> In Australia, a woman became a victim of [deepfake pornography created without her consent](https://www.news.com.au/lifestyle/real-life/news-life/sydney-woman-reveals-devastating-impact-of-deepfake-porn-betrayal/news-story/73b8d95ff4d042e0f2137609ca97635a?utm_source=chatgpt.com), illustrating the emotional and reputational toll such technology can have.
 
-> The risk isn't just high-impact—it's high-likelihood. The tools to cause this kind of harm are cheap, public, and spreading fast.
+The risk assessment is both high-impact and high-likelihood. The tools to cause this kind of harm are cheap, public, and spreading fast. In most models this would translate to a Critical priority risk
 
 We’re heading into a future where emotional trust in AI could be used as a weapon—and we’re not ready for the consequences.
 
