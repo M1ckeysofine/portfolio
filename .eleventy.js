@@ -1,31 +1,11 @@
+import { DateTime } from "luxon";
+
 module.exports = function(eleventyConfig) {
     const markdownIt = require('markdown-it');
     const markdownItOptions = {
         html: true,
         linkify: true
     };
-
-    import { DateTime } from "luxon";
-
-    /** @param {import("@11ty/eleventy/src/UserConfig")} eleventyConfig */
-    export default function(eleventyConfig) {
-    
-      // Add a Nunjucks date filter
-      eleventyConfig.addFilter("date", (dateObj, format = "yyyy-MM-dd") => {
-        if (!dateObj) return "";
-        return DateTime.fromJSDate(dateObj, { zone: 'utc' }).toFormat(format);
-      });
-    
-      return {
-        dir: {
-          input: ".",
-          includes: "_includes",
-          data: "_data",
-          output: "_site"
-        }
-      };
-    }
-    
 
     const md = markdownIt(markdownItOptions)
     .use(require('markdown-it-footnote'))
@@ -46,6 +26,11 @@ module.exports = function(eleventyConfig) {
     eleventyConfig.addFilter("markdownify", string => {
         return md.render(string)
     })
+
+    eleventyConfig.addFilter("date", (dateObj, format = "yyyy-MM-dd") => {
+        if (!dateObj) return "";
+        return DateTime.fromJSDate(dateObj, { zone: 'utc' }).toFormat(format);
+      });
 
     eleventyConfig.setLibrary('md', md);
     
