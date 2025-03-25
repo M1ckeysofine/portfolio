@@ -57,13 +57,13 @@ Your toothbrush—or your camera, or your smart scale—might look simple. But i
 
 In many cases:
 
-    The original firmware is never reviewed by the device brand.
+-  The original firmware is never reviewed by the device brand.
 
-    White-label vendors reuse SDKs across devices (a BLE toothbrush may share code with a smart kettle).
+- White-label vendors reuse SDKs across devices (a BLE toothbrush may share code with a smart kettle).
 
-    There’s no formal software bill of materials (SBOM)—no way to know what’s in there, or what it's communicating with.
+- There’s no formal software bill of materials (SBOM)—no way to know what’s in there, or what it's communicating with.
 
-This is a supply chain problem, and it’s not limited to toothbrushes. It’s just easier to ignore when the device is small, inexpensive, and not connected to a critical network.
+> This is a supply chain problem, and it’s not limited to toothbrushes. It’s just easier to ignore when the device is small, inexpensive, and not connected to a critical network.
 
 ---
 
