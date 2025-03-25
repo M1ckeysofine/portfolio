@@ -127,34 +127,34 @@ For hobbyists, penetration testers, and engineers in this space: tools like [Fli
 
 #### 🇺🇸 United States
 
-    IoT Cybersecurity Improvement Act of 2020: Enacted on December 4, 2020, this federal law mandates that IoT devices procured by the U.S. government meet minimum cybersecurity standards developed by the National Institute of Standards and Technology (NIST). These standards focus on aspects like access control, incident response, and system protection.
+IoT Cybersecurity Improvement Act of 2020: Enacted on December 4, 2020, this federal law mandates that IoT devices procured by the U.S. government meet minimum cybersecurity standards developed by the National Institute of Standards and Technology (NIST). These standards focus on aspects like access control, incident response, and system protection.
    [Congress.gov | Library of Congress ->](https://www.congress.gov/bill/116th-congress/house-bill/1668)
     ​
 
-    California Senate Bill No. 327 (SB-327): Effective January 1, 2020, SB-327 requires manufacturers of connected devices sold in California to equip them with reasonable security features appropriate to the device's function and the information it collects, protecting against unauthorized access, destruction, use, modification, or disclosure.
+California Senate Bill No. 327 (SB-327): Effective January 1, 2020, SB-327 requires manufacturers of connected devices sold in California to equip them with reasonable security features appropriate to the device's function and the information it collects, protecting against unauthorized access, destruction, use, modification, or disclosure.
    [California SB327 ->](https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=201720180SB327)
     ​
 
-    US Cyber Trust Mark: Launched in January 2025, this initiative introduces a labeling program for consumer IoT products, indicating adherence to specific cybersecurity standards. Similar to the Energy Star program, the Cyber Trust Mark aims to help consumers identify secure devices. ​
+US Cyber Trust Mark: Launched in January 2025, this initiative introduces a labeling program for consumer IoT products, indicating adherence to specific cybersecurity standards. Similar to the Energy Star program, the Cyber Trust Mark aims to help consumers identify secure devices. ​
    [FCC Cyber Trust Mark](https://www.fcc.gov/CyberTrustMark)
 
 #### 🇪🇺 European Union
 
-    Cyber Resilience Act (CRA): Proposed in September 2022, the CRA aims to establish common cybersecurity standards for products with digital elements, including IoT devices. The act emphasizes a "secure by design" approach, requiring manufacturers to assess cybersecurity risks, implement appropriate security measures, and provide ongoing support and updates. Full enforcement is anticipated by 2027, with some provisions taking effect earlier. ​
+Cyber Resilience Act (CRA): Proposed in September 2022, the CRA aims to establish common cybersecurity standards for products with digital elements, including IoT devices. The act emphasizes a "secure by design" approach, requiring manufacturers to assess cybersecurity risks, implement appropriate security measures, and provide ongoing support and updates. Full enforcement is anticipated by 2027, with some provisions taking effect earlier. ​
    [European Commission CRA ->](https://digital-strategy.ec.europa.eu/en/policies/cyber-resilience-act)
 
 #### 🇬🇧 United Kingdom
 
-    Product Security and Telecommunications Infrastructure (PSTI) Bill: Introduced in December 2021, the PSTI Bill seeks to mandate cybersecurity requirements for IoT device manufacturers, importers, and distributors. Key provisions include banning default passwords, requiring transparency about the duration of security updates, and providing a public point of contact for vulnerability reporting. ​
+Product Security and Telecommunications Infrastructure (PSTI) Bill: Introduced in December 2021, the PSTI Bill seeks to mandate cybersecurity requirements for IoT device manufacturers, importers, and distributors. Key provisions include banning default passwords, requiring transparency about the duration of security updates, and providing a public point of contact for vulnerability reporting. ​
    [UK Legislation PSTI ->](https://www.legislation.gov.uk/uksi/2023/1007/regulation/2)
 
 #### 🌍 International
 
-    ISO/IEC 27400: Part of the ISO/IEC 27000 family, this standard provides guidelines for IoT security and privacy, offering a framework for managing risks associated with IoT devices and ensuring data protection 
+ISO/IEC 27400: Part of the ISO/IEC 27000 family, this standard provides guidelines for IoT security and privacy, offering a framework for managing risks associated with IoT devices and ensuring data protection 
 
-    IEC 62443: This series of standards focuses on industrial communication networks and systems security, providing a comprehensive framework to address and mitigate security vulnerabilities in industrial automation and control systems, which can be applied to IoT contexts. 
+IEC 62443: This series of standards focuses on industrial communication networks and systems security, providing a comprehensive framework to address and mitigate security vulnerabilities in industrial automation and control systems, which can be applied to IoT contexts. 
 
-> Security by design isn’t optional anymore—regulators are watching.
+> Security by design isn’t optional, regulators are watching.
 
 ---
 
