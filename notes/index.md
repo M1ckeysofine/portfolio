@@ -5,6 +5,7 @@ title: Mick's Thoughts
 This is where I put projects, ideas, thoughts about things I am working on that I don't want to misplace
 
 [[The State of AI Security in 2025]]\
+[[Your IoT Toothbrush Is Vulnerable]]\
 [[What Is Web 3.0]]\
 [[AWS Security Tips]]\
 [[Cybersecurity Laws Regulation and Standards Cheat Sheet]]\
