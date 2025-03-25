@@ -41,9 +41,9 @@ Let’s be clear: no one’s targeting your toothbrush for your dental data (pro
 - **🔌 Debug interface abuse**  
 
 These vulnerabilities are not just theoretical. 
-In 2024 Trend Micro identified an [IoT Botnet linked DDOS attack](https://www.trendmicro.com/en_us/research/25/a/iot-botnet-linked-to-ddos-attacks.html)that comprises malware variants derived from **Mirai** and **Bashlite** and infects IoT devices by exploiting vulnerabilities and weak credentials
+In 2024 Trend Micro identified an [IoT Botnet linked DDOS attack](https://www.trendmicro.com/en_us/research/25/a/iot-botnet-linked-to-ddos-attacks.html) that comprises malware variants derived from [**Mirai**](https://www.cloudflare.com/learning/ddos/glossary/mirai-botnet/) and [**Bashlite**](https://www.trendmicro.com/en_us/research/19/d/bashlite-iot-malware-updated-with-mining-and-backdoor-commands-targets-wemo-devices.html) and infects IoT devices by exploiting vulnerabilities and weak credentials
 
-A study titled *"A Study on Hardware Attacks against Microcontrollers"* by Fraunhofer AISEC highlights that many MCUs in common use (like STM32, Atmel, and others) lack modern protections against physical and fault injection attacks.  
+A study titled *"A Study on Hardware Attacks against Microcontrollers"* by Fraunhofer AISEC (German Federal Office for Information Services) highlights that many MCUs in common use (like STM32, Atmel, and others) lack modern protections against physical and fault injection attacks.  
 [Read the PDF →](https://www.aisec.fraunhofer.de/content/dam/aisec/Dokumente/Publikationen/Studien_TechReports/englisch/Study-on-Hardware-Attacks-against-Microcontrollers.pdf)
 
 In 2023, a viral (though overblown) story alleged that 3 million compromised smart toothbrushes were used in a botnet DDoS attack.  
