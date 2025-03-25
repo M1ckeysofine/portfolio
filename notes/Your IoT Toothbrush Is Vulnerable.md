@@ -53,11 +53,17 @@ In 2023, a viral (though overblown) story alleged that 3 million compromised sma
 
 ## 🧬 The Real Problem: You Don’t Know What’s Inside
 
-- The **original firmware is never reviewed**  
-- **White-label vendors reuse SDKs**  
-- No **formal SBOMs** or component audits  
+Your toothbrush—or your camera, or your smart scale—might look simple. But it likely contains components from dozens of different suppliers, each shipping chips, SDKs, or modules with their own firmware baked in.
 
-This is a **supply chain trust issue**, not just a toothbrush problem.
+In many cases:
+
+    The original firmware is never reviewed by the device brand.
+
+    White-label vendors reuse SDKs across devices (a BLE toothbrush may share code with a smart kettle).
+
+    There’s no formal software bill of materials (SBOM)—no way to know what’s in there, or what it's communicating with.
+
+This is a supply chain problem, and it’s not limited to toothbrushes. It’s just easier to ignore when the device is small, inexpensive, and not connected to a critical network.
 
 ---
 
