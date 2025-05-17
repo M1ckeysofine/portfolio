@@ -28,13 +28,8 @@ To understand this era, I highly recommend watching [**DEFCON: The Documentary**
 In the last decade, DEF CON has undergone a quiet but meaningful transformation. What used to be a mostly unstructured gathering of hackers is now a **global security conference with accountability structures**, formal policies, and an expanding mission of inclusion.
 
 - New villages and spaces have emerged as intentional safe havens, including:
-  - **Queercon**
-  - **Mental Health Village**
+  - **Chill Rooms**
   - **HDA – Hackers with Disabilities and Access Needs**
-
-And while there isn't yet a dedicated **Neurodiverse Village**, neurodivergence has been represented through talks like:
-- Megan Roddie’s *"Strengthen Your SecOps Team by Leveraging Neurodiversity"* at Packet Hacking Village.
-- Kassandra Pierre and Nathan Chung’s *"Neurodiversity in Cybersecurity"* at the BiC Village.
 
 These spaces don’t dilute DEF CON’s edge. They deepen it—by making sure **more kinds of minds and bodies can participate fully**.
 
