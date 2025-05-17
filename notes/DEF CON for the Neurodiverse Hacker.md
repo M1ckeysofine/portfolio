@@ -1,5 +1,6 @@
 
-# Navigating DEF CON as a Neurodivergent Attendee: Culture, Consent, and Change
+# Navigating DEF CON as a Neurodivergent Hacker: 
+### Culture, Consent, and Change
 
 ## Introduction
 
