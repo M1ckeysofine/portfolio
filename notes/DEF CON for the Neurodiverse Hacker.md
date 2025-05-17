@@ -87,7 +87,7 @@ Hacker culture pushes boundaries, but it also values consent, autonomy, and mutu
 
 - Prepare opt-out phrases
 - Schedule hotel breaks
-- Use Villages like HDA or Mental Health as calmer base camps
+- Use Villages like HDA or Chill Rooms as calmer base camps, I like to visit the HAM Radio Village personally. Blue Team Village usually has a lot of people but low lights and an overall chill vibe too.
 
 ### 🎮 Recognize the Social Minigames
 
