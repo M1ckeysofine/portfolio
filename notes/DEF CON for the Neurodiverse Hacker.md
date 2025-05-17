@@ -171,7 +171,6 @@ Or as WarGames taught us:
 ### 🎧 Anchor in Hacker Culture That *Welcomes* You
 
 There’s a deep irony in hacker history: a culture built on anti-culture is often the most accepting place for people who never fit the default OS.
-There’s a deep irony in hacker history: a culture built on anti-culture is often the most accepting place for people who never fit the default OS.
 
 🧑‍🚀 Dark Tangent, DEF CON’s founder, has said for years that **“all hackers are welcome.”** This isn’t just branding—it’s a statement of values. The con was built as a space for misfits, explorers, and system-breakers. That includes those of us with sensory needs, processing differences, and social adaptations.
 
