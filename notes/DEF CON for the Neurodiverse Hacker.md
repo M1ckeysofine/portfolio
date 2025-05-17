@@ -55,16 +55,38 @@ But this kind of consent is only valid **as long as it’s mutual and ongoing**.
 - Public shaming over knowledge gaps
 - Retaliation against feedback or complaints
 
+Even if the behavior looks similar (a joke, a critique, a roast), the context changes everything. When someone doesn’t have the power to opt out—or when the behavior causes actual harm—it stops being culture and starts being misconduct.
+
 ### 🧠 Why This Is Especially Hard for Neurodivergent Attendees
 
-- **Literal interpretation** of jokes or sarcasm
-- **Delayed pattern recognition** in group dynamics
-- **Masking and mimicry** that accidentally crosses lines
-- **Sensory and cognitive overload** during the event
+If you're neurotypical, some of these boundaries may feel obvious or intuitive. You might pick up on tone, sarcasm, and social positioning—without even realizing you’re doing it.
 
-```plaintext
-Legacy DEF CON: if (you_can_take_a_joke) { you_belong(); }
-Modern DEF CON: if (everyone_has_opted_in && no_harm_is_done) { you_belong(); }
+But for many of us who are autistic, ADHD, OCD, or otherwise neurodivergent, those social lines aren’t blurry—they’re often invisible.
+
+Here’s why:
+
+-  **Literal interpretation:** We often take people at their word. If someone says, “You suck at crypto,” we may interpret that as a genuine insult, not a playful jab.
+
+- **Delayed pattern recognition:** Many ND folks need time and context to understand group dynamics. At DEF CON, where conversations move fast and rules are often unwritten, that time just doesn’t exist.
+
+- **Masking and mimicry:** To fit in, we may copy others’ behavior—but if we imitate edgy or sarcastic jokes without grasping the context, we might unintentionally harm someone or cross a line we didn’t know was there.
+
+- **Cognitive load and sensory overwhelm:** DEF CON is intense. Noise, crowds, flashing lights, and high cognitive demands drain energy quickly. Trying to track subtle social cues on top of that can be like reverse engineering an exploit while skydiving blindfolded.
+
+This isn’t about excuses. It’s about understanding the different ways people experience the same environment—and building a culture that doesn’t punish those differences.
+
+```js
+// Legacy DEF CON model
+if (you_can_take_a_joke) {
+    // Belonging was earned through endurance, not safety.
+    proceed();
+}
+
+// Modern DEF CON model
+if (everyone_has_opted_in && no_harm_is_done) {
+    // Consent and mutual respect grant permission to engage.
+    you_have_permission_to_continue();
+}
 ```
 
 ## 3. The Hadnagy Case: When Boundaries Aren’t Just Crossed—They’re Ignored
