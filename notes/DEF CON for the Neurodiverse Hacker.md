@@ -20,7 +20,7 @@ There’s no single “DEF CON.” What you experience depends on where you go, 
 
 ### 🔧 DEF CON Legacy Mode: The Classic Hacker Vibe
 
-DEF CON has always been a paradox: part underground hacker gathering, part chaotic social experiment. In its early years, it was a place where you could see someone soldering a badge in one room while another person was getting roasted on stage in Hacker Jeopardy. The culture was raw, irreverent, and often intentionally provocative.
+DEF CON has always been a paradox: part underground hacker gathering, part chaotic social experiment. In its early years, it was a place where you could see someone hacking hardware with a soldering iron and a beer in one room while another person was getting brutally roasted on stage in Hacker Jeopardy. The culture was raw, irreverent, underground, and often intentionally provocative.
 
 To understand this era, I highly recommend watching [**DEFCON: The Documentary**](https://www.youtube.com/watch?v=3ctQOmjQyYg). Filmed during DEF CON 20 in 2012, it captures the spirit of the conference's first two decades. The film offers a behind-the-scenes look at the event, showcasing its unique blend of technical brilliance, anarchic energy, and the unfiltered personalities that defined its early years.
 
