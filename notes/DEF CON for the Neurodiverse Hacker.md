@@ -14,7 +14,7 @@ Over the years, I’ve come to realize that DEF CON operates on **two overlappin
 
 This article is my attempt to decode those unspoken expectations. To help new and veteran attendees on the spectrum navigate DEF CON as it evolves—from raw hacker rebellion to a globally influential security conference trying to build a more inclusive future.
 
-## 1. The Two Cultures of DEF CON
+## 1. The Cultures of DEF CON
 
 There’s no single “DEF CON.” What you experience depends on where you go, who you’re with, and what you’re looking for. But broadly, I’ve noticed **two cultural operating systems** that run in parallel:
 
