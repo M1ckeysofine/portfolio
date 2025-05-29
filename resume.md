@@ -3,7 +3,7 @@ layout: default
 title: Mick's Resume
 ---
 
-# **Mick Cecil**  
+# **Mick C**  
 📍 United States | 📧 the.m1ck(at)proton.me |
 [🔗 LinkedIn](https://www.linkedin.com/in/mickeycecil) | [🌐 Website](https://mickcecil.com)  
 
@@ -17,10 +17,11 @@ title: Mick's Resume
 Accomplished **Information Security Engineering Leader** with over **15 years of experience** in **strategic security operations, offensive security, threat hunting, and threat intelligence**.  
 
 Built and led multiple high-impact security teams at **Amazon**, including:  
-- **Amazon’s first Insider Threat Prevention Team** within Retail Security, focused on **proactive insider risk detection and mitigation**.  
-- **Global Customer Service Security’s CSIRT**, strengthening Amazon’s ability to **rapidly detect, investigate, and respond** to security incidents at scale.  
-- **Proactive Security Operations (PSO)**, a **Purple Team bridging blue and red team functions**, specializing in **threat hunting, intelligence analysis, and adversarial emulation**.  
-- **Threat Operations for Amazon Global Customer Service Security**, overseeing **50+ engineers and analysts** across **incident response, automation, red teaming, and legal support functions**.  
+- Led **Threat Operations for Amazon Global Customer Service Security**, overseeing **50+ engineers and analysts** across **incident response, automation, red teaming, DevSecOps,threat hunting, and legal support functions**.  
+- Built **Amazon’s first Insider Threat Prevention Team** within Retail Security, focused on **proactive insider risk detection and mitigation**.  
+- Built and Led **Global Customer Service Security’s CSIRT**, strengthening Amazon’s ability to **rapidly detect, investigate, and respond** to security incidents at scale.  
+- Built ad Led **Proactive Security Operations (PSO)**, a **Purple Team bridging blue and red team functions**, specializing in **threat hunting, intelligence analysis, and adversarial emulation**.  
+
 
 Holds a **patent in anomalous computer activity detection**, demonstrating expertise in **behavioral threat modeling, automation, and security innovation**. Recognized as a **SANS Holiday Hack Winner**, excelling in **offensive security techniques, exploit development, and adversary simulation**. Passionate about **building and leading high-performance security teams**, driving **offensive security research**, and enhancing **enterprise security resilience** through **automation and strategic threat management**.  
 
@@ -62,18 +63,15 @@ Holds a **patent in anomalous computer activity detection**, demonstrating exper
 
 ---
 
-### **Amazon – Manager, Security Engineer, Proactive Security Operations**  
-📍 **Amazon Global Customer Service Security** | 📅 **12/2024 – Present**  
+### **Amazon – Manager, Security Engineer, Threat Operations**  
+📍 **Amazon Global Customer Service Security** | 📅 **12/2022 – Present**  
+- Spearheaded security initiatives, reducing **incident response triage times by 96%** (from **52 days to 2 days**).  
+- Led and managed **multiple security teams** across **threat operations, incident response, red teaming, DevSecOps/Automation, legal support, and data protection**.  
+- Focused on **building an inclusive, high-performance security organization**, fostering **innovation and operational efficiency**. 
 - Founded and led **Proactive Security Operations (PSO)**, a **specialized purple team** bridging **blue and red team functions**.  
 - Designed and implemented **adversarial emulation frameworks**, combining **threat hunting, intelligence analysis, and covert/overt offensive testing**.  
 - Led **high-impact security assessments**, including **simulated adversary engagements, breach attack simulations, and custom exploit development**.  
-- Developed **custom automation and tooling** to enhance **continuous security monitoring and proactive threat detection**.  
-
-### **Amazon – Manager, Security Engineer, Threat Operations**  
-📍 **Amazon Global Customer Service Security** | 📅 **12/2022 – 12/2024**  
-- Spearheaded security initiatives, reducing **incident response triage times by 96%** (from **52 days to 2 days**).  
-- Led and managed **four security teams** across **threat operations, incident response, red teaming, legal, and data protection**.  
-- Focused on **building an inclusive, high-performance security organization**, fostering **innovation and operational efficiency**.  
+- Developed **custom automation and tooling** to enhance **continuous security monitoring and proactive threat detection**. 
 
 ### **Amazon – Manager, Security Engineer, CSIRT**  
 📍 **Amazon Global Customer Service Security** | 📅 **7/2021 – 12/2022**  
@@ -96,6 +94,7 @@ Holds a **patent in anomalous computer activity detection**, demonstrating exper
 - Established and built **TMC’s first formal information security program**.  
 - Conducted **penetration tests** and developed **HIPAA-compliant security policies**.  
 - Led **incident response** and deployed **security controls** across medical systems and applications.  
+- Built custom **vulnerabtility management tools** driving open risks down through **Python** automation.
 
 ---
 
@@ -107,13 +106,23 @@ Holds a **patent in anomalous computer activity detection**, demonstrating exper
 
 ---
 
+### **Tohono O'odham Gaming & Hospitality –  Network Security Engineer**  
+📍 **Desert Diamond Casinos** | 📅 **2004 – 2009**  
+- Designed and maintained **secure network infrastructure** for a **sovergn indigenous gaming and hospitality organiztion**.  
+- Ensured **PCI** and conducted **vulnerability assessments**.  
+- Integrated **security best practices into application and network design**.
+- Architected **voice and data network solutions** for multiple casino and resort hotel property
+- Designed and implemented business continuity solutions and redudndant communications methodologies, inlcuding **microwave radio, fiber optic, and telco provided**
+
+---
+
 ## **Patents & Publications**  
 - **Patent:** *Anomalous Computer Activity Detection and Prevention (US 12058157)*  
 - **Publication:** *Protecting Healthcare Data (SANS Secure the Human 2015)*  
 
 ## **Honors & Awards**  
 - 🏆 **SANS Holiday Hack Winner – Most Creative (2014)**  
-- 🏅 **SANS Holiday Hack Super Honorable Mention (2016, 2017)**  
+- 🏅 **SANS Holiday Hack Super Honorable Mention (2015, 2016, 2017)**  
 
 ## **Relevant Volunteer Work**  
 - 🧩 **Neurodivergent Career Mentor**
@@ -133,8 +142,8 @@ Holds a **patent in anomalous computer activity detection**, demonstrating exper
 ---
 
 ### **Education & Certifications**  
-📜 **SANS SEC-660, SEC-642, SEC-560, SEC-504, SEC-575, FOR-500**  
-📜 **AWS Certified – Architecting on AWS, AWS Cloud Practitioner**  
+📜 **SANS SEC-660, SEC-642, SEC-560, SEC-504, SEC-575, FOR-500**   
 📜 **GIAC Certified Incident Handler (GCIH)**  
+📜 **GTE Reident School - Honor Graduate Vocational Certification -  Multichannel Communications**
 
 ---

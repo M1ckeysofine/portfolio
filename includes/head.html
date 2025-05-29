@@ -34,6 +34,27 @@
 <meta property="og:image" content="/assets/avatar.png">
 <meta property="og:description" content="{{- metadesc -}}">
 
+<!-- Primary Meta Tags -->
+<title>{{ title or "Mick Cecil – Cybersecurity, AI, Hacking & Web Security" }}</title>
+<meta name="description" content="{{ description or 'Explore cybersecurity insights, red teaming techniques, ethical hacking, AI security, penetration testing, and more with Mick Cecil.' }}">
+<meta name="keywords" content="cybersecurity, penetration testing, red teaming, hacking, ethical hacking, AI security, web security, blue team, threat detection, Mick Cecil, infosec blog, cyber defense, CTF, OSINT, bug bounty, security research, 11ty, web3 security">
+<meta name="author" content="Mick Cecil">
+
+<!-- Open Graph / Facebook -->
+<meta property="og:type" content="website">
+<meta property="og:title" content="{{ title or 'Mick Cecil – Cybersecurity, AI, Hacking & Web Security' }}">
+<meta property="og:description" content="{{ description or 'Cybersecurity insights and tutorials from Mick Cecil. Learn about ethical hacking, red teaming, AI security, and modern web threats.' }}">
+<meta property="og:url" content="{{ site.url }}{{ page.url }}">
+<meta property="og:image" content="{{ site.url }}/assets/social.png">
+
+<!-- Twitter -->
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="{{ title or 'Mick Cecil – Cybersecurity, AI, Hacking & Web Security' }}">
+<meta name="twitter:description" content="{{ description or 'Cybersecurity insights and tutorials from Mick Cecil. Learn about ethical hacking, red teaming, AI security, and modern web threats.' }}">
+<meta name="twitter:image" content="{{ site.url }}/assets/social.png">
+
+
+
 <link rel="canonical" href="{{ page.url | prepend: site.baseurl }}">
 
 <link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin>

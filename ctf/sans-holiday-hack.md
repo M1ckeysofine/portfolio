@@ -7,7 +7,7 @@ description: "A deep dive into my award-winning solutions for the 2014 and 2015 
 ---
 
 # **SANS Holiday Hack Challenge Technical Write-up (2014 & 2015)**
-**Author:** Mick Cecil  
+**Author:** Mick C  
 **Recognition:**  
 - 🏆 **2014 - Most Creative Submission Winner**  
 - 🏅 **2015 - Super Honorable Mention for Technical & Creative Excellence**  
