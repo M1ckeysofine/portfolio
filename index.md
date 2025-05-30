@@ -1,4 +1,4 @@
-<http>
+
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-TE1CYXDL5W"></script>
 <script>
@@ -8,7 +8,7 @@
 
   gtag('config', 'G-TE1CYXDL5W');
 </script>
-</http>
+
 ---
 layout: default
 ---
