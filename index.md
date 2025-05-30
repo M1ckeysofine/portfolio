@@ -1,15 +1,3 @@
-<html>
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-TE1CYXDL5W"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-TE1CYXDL5W');
-</script>
-</html>
-
 ---
 layout: default
 ---
@@ -45,3 +33,14 @@ If you're interested in **collaborating, discussing security topics, or just gee
 📧 Email me - the.m1ck(at)proton.me
 
 <img src="assets/HolidayHackWin.png" width="360">
+<html>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-TE1CYXDL5W"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-TE1CYXDL5W');
+</script>
+</html>
