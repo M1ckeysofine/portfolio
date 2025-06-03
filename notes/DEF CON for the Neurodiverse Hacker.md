@@ -24,18 +24,17 @@ This legacy culture emphasized the hacker ethos: knowledge should be free, rules
 
 As DEF CON matured, it also diversified. What began as a relatively homogeneous community of hacker generalists has expanded to include cybersecurity professionals, academics, policy makers, and individuals from a variety of lived experiences. This shift has prompted the creation of intentional spaces for inclusion, such as Chill Rooms and HDA (Hackers with Disabilities and Access Needs). These spaces provide neurodivergent attendees—and others with sensory or cognitive sensitivities—an environment that accommodates rather than excludes. 🧘♿🛜
 
-This shift doesn’t represent a departure from DEF CON’s core identity. Instead, it reflects a maturation: a growing awareness that true subversion includes making space for all kinds of minds. Villages dedicated to blue teaming, lock picking, hardware hacking, and even neurodiversity have opened new pathways for engagement and contribution. 🔓📡🧠
+This shift doesn’t represent a departure from DEF CON’s core identity. Instead, it reflects a maturation: a growing awareness that true subversion includes making space for all kinds of minds. Villages dedicated to blue teaming, lock picking, hardware hacking, and even a simple space to chill have opened new pathways for engagement and contribution. 🔓📡🧠
 
 ## Consent, Context, and Community Boundaries 📜🔍🧭
 
-One of the more nuanced challenges for neurodivergent individuals is decoding the boundary between socially sanctioned irreverence and harmful conduct. DEF CON now emphasizes three pillars in adjudicating acceptable behavior: consent, context, and impact. 🧠🔐⚖️
+One of the nuanced challenges for neurodivergent individuals at DEF CON is discerning the line between culturally accepted irreverence and behaviors that cross into harmful territory. [DEF CON’s Code of Conduct](https://defcon.org/html/links/dc-code-of-conduct.html) underscores the importance of mutual respect, explicitly stating that while radical viewpoints are welcome and skepticism is expected, harassment and intimidation are unequivocally unacceptable. This framework supports a culture where consent, context, and impact are central to interactions. 🧠🔐⚖️
 
-These interactions rely on mutual respect and clearly signaled participation. The hallmark of acceptability in DEF CON's culture isn’t the absence of edginess—it’s the presence of clarity and consent. 🫱🗨️✅
+In practice, this means that engaging in edgy humor or challenging discussions is acceptable when all parties have clearly signaled their willingness to participate. The presence of clarity and consent transforms potentially provocative interactions into enriching exchanges. 🫱🗨️✅
 
-Such interactions may not always appear malicious on the surface, but their effect—especially in an environment where social capital can determine access and influence—can be isolating or harmful. This is especially true for neurodivergent participants who may have reduced access to informal feedback loops. 🕸️🧏🫥
+However, the impact of certain behaviors can be isolating or harmful, especially in environments where social cues are subtle and feedback loops are informal. Neurodivergent participants may find it more difficult to access these cues, making it challenging to navigate complex social dynamics. 🕸️🧏🫥
 
-Neurodivergent attendees may struggle with recognizing implicit social boundaries. Literal interpretation of speech, delayed pattern recognition in social settings, and challenges with emotional reciprocity can lead to unintentional norm violations. This isn’t a character flaw—it’s a different cognitive profile. The responsibility lies with the community to foster an environment where boundaries are made clear and missteps become teachable moments rather than grounds for exclusion. That’s how we maintain both the spirit of hacker exploration and the dignity of all participants. 🧬👥📘
-
+Literal interpretation of language, delayed pattern recognition in social settings, and difficulties with emotional reciprocity can lead to unintentional norm violations. It’s crucial to recognize that these are aspects of different cognitive profiles, not character flaws. The community bears the responsibility to foster an environment where boundaries are transparent, and missteps are met with guidance rather than exclusion. This approach ensures that the spirit of hacker exploration coexists with a commitment to inclusivity and respect. 🧬👥📘
 ```js
 // Legacy DEF CON model
 if (you_can_take_a_joke) {
@@ -94,3 +93,10 @@ DEF CON thrives on diversity of thought. Neurodivergent perspectives offer uniqu
 If parts of DEF CON don’t work for you, adapt them. Hack them. Build better tools, better interactions, and better norms. That’s what hackers do. Bring your whole self, your curiosity, your analytical eye—and your need for accommodations. They’re not just allowed—they’re welcome. 🧰🛠️🤗
 
 Because DEF CON was never meant to be polished or perfect—it was meant to be ours. 🏴‍☠️🌐🧩
+
+
+# Reporting Code Of Conduct Violations at DEF CON
+
+Please visit [DEF CON's official CoC website](https://defcon.org/html/links/dc-code-of-conduct.html) for any changes. At the time of writing here is how you can report violations of DEF CON's CoC:
+
+> Anyone can report harassment. If you are at DEF CON and are being harassed, notice that someone else is being harassed, or have any other concerns, you can let us know by contacting any Goon, registration desk, or info booth, as well as by calling or texting the hotline at 725-222-0934. As a reminder, you can also contact the hotline during the con if you just need someone supportive to talk to. You can also file a report year-round by contacting safety@defcon.org. We encourage individuals to report CoC violations as soon as they’re able to so we can begin our investigation before evidence is lost or destroyed, but it’s never too late to make a report.
