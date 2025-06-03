@@ -1,79 +1,42 @@
+# Navigating DEF CON as a Neurodivergent Hacker
 
-# Navigating DEF CON as a Neurodivergent Hacker: 
-### Culture, Consent, and Change
+When I first encountered [The Hacker's Manifesto](https://phrack.org/issues/7/3), it resonated deeply with me as a rallying cry that celebrated curiosity, the pursuit of knowledge, and intellectual rebellion against societal norms. Its message validated my unique perspective shaped by neurodivergence, affirming that thinking differently isn't a limitation but a strength. This realization set the perfect foundation for my journey into DEF CON.
 
-## Introduction
+When I first encountered "The Hacker Manifesto," it resonated deeply. It wasn't just a declaration—it was a rallying cry that spoke directly to my unique way of seeing the world. This text celebrated curiosity, intellectual rebellion, and the value of thinking differently, which immediately made me feel seen and validated in my neurodivergence. It set the stage perfectly for my journey into DEF CON.
 
-My first DEF CON was DC24—the year of the Skull badge.
+## Culture, Consent, and Change 🎛️🧩📡
 
-That badge, designed by LosT Boy (aka 1o57), didn’t just impress me—it *rewired* me. The intricacy. The hidden layers. The elegance of a puzzle that didn’t just reward knowledge but demanded curiosity. That year, I was hooked—not just on the challenge, but on the idea that DEF CON was a place where people like me could belong.
+### Introduction 🚀🧠💡
 
-I'm neurodivergent. I wasn’t diagnosed until later in life, but looking back, it made perfect sense. Like many on the spectrum, I thrive in logic, patterns, and systems. Social nuance? Not so much. So when I stepped into DEF CON’s chaotic brilliance—equal parts conference, carnival, and command line—I felt both amazed and overwhelmed.
+My introduction to DEF CON began with DC24—the iconic year of the skull badge. Designed by LosT Boy (aka 1o57), the badge was more than just a piece of conference memorabilia. It was a sophisticated puzzle laden with symbolism, hidden mechanics, and layered challenges that rewarded persistence and intellectual curiosity. For me, it was transformative—a signal that DEF CON wasn’t merely a conference but a cultural touchstone for individuals who thrive on systems thinking, logic, and creative exploration. 🧩🔍✨
 
-Over the years, I’ve come to realize that DEF CON operates on **two overlapping sets of rules**: one explicit (badges, talks, contests), and one hidden (social norms, cultural expectations). For neurotypical folks, those hidden rules might come naturally. For people like me, they’re often a moving target—and getting them wrong can have real consequences.
+As someone diagnosed with autism spectrum disorder in adulthood, my neurodivergence informs how I process the world. I excel in pattern recognition and analytical thinking but often struggle with implicit social dynamics. DEF CON’s unique blend of technical brilliance and social unpredictability was both energizing and overwhelming. Over time, I came to understand that DEF CON operates within two interwoven cultural systems: the explicit (talks, contests, badges) and the implicit (social expectations, cultural norms). This guide seeks to explore both domains through a neurodivergent lens and to empower others to confidently engage with the DEF CON experience. 🎯🛠️🌐
 
-This article is my attempt to decode those unspoken expectations. To help new and veteran attendees on the spectrum navigate DEF CON as it evolves—from raw hacker rebellion to a globally influential security conference trying to build a more inclusive future.
+## Two Intersecting Cultural Modes at DEF CON 🔀💬🛠️
 
-## 1. The Cultures of DEF CON
+DEF CON has evolved into a hybrid institution: one foot planted firmly in its anarchic, underground origins and the other navigating the formalities of a world-renowned cybersecurity conference. This cultural bifurcation is part of what makes DEF CON so compelling—and also so challenging to navigate. 🔄📡📘
 
-There’s no single “DEF CON.” What you experience depends on where you go, who you’re with, and what you’re looking for. But broadly, I’ve noticed **two cultural operating systems** that run in parallel:
+### Legacy Culture: The Hacker Underground 💻🎲🎭
 
-### 🔧 DEF CON Legacy Mode: The Classic Hacker Vibe
+In its formative years, DEF CON was characterized by irreverence, boundary-pushing antics, and a resistance to formal authority. Events like Hacker Jeopardy exemplified this culture—raucous, edgy, and at times intentionally provocative. These traditions were not merely entertainment; they functioned as social signaling and tribal bonding among early hacker communities. [DEFCON: The Documentary](https://www.youtube.com/watch?v=3ctQOmjQyYg) captures this spirit well, offering a glimpse into the con's formative chaos and camaraderie. 🎞️🧠🔥
 
-DEF CON has always been a paradox: part underground hacker gathering, part chaotic social experiment. In its early years, it was a place where you could see someone hacking hardware with a soldering iron and a beer in one room while another person was getting brutally roasted on stage in Hacker Jeopardy. The culture was raw, irreverent, underground, and often intentionally provocative.
+This legacy culture emphasized the hacker ethos: knowledge should be free, rules are meant to be tested, and power structures are often best understood by poking at them. In many ways, this philosophy resonates deeply with neurodivergent individuals, particularly those who question social hierarchies or engage the world analytically. 🧪📖⚙️
 
-To understand this era, I highly recommend watching [**DEFCON: The Documentary**](https://www.youtube.com/watch?v=3ctQOmjQyYg). Filmed during DEF CON 20 in 2012, it captures the spirit of the conference's first two decades. The film offers a behind-the-scenes look at the event, showcasing its unique blend of technical brilliance, anarchic energy, and the unfiltered personalities that defined its early years.
+### Contemporary DEF CON: Inclusivity and Infrastructure 🌐🏗️🫂
 
-### 🛡️ DEF CON Safe Mode: The Modern Cultural Shift
+As DEF CON matured, it also diversified. What began as a relatively homogeneous community of hacker generalists has expanded to include cybersecurity professionals, academics, policy makers, and individuals from a variety of lived experiences. This shift has prompted the creation of intentional spaces for inclusion, such as Chill Rooms and HDA (Hackers with Disabilities and Access Needs). These spaces provide neurodivergent attendees—and others with sensory or cognitive sensitivities—an environment that accommodates rather than excludes. 🧘♿🛜
 
-In the last decade, DEF CON has undergone a quiet but meaningful transformation. What used to be a mostly unstructured gathering of hackers is now a **global security conference with accountability structures**, formal policies, and an expanding mission of inclusion.
+This shift doesn’t represent a departure from DEF CON’s core identity. Instead, it reflects a maturation: a growing awareness that true subversion includes making space for all kinds of minds. Villages dedicated to blue teaming, lock picking, hardware hacking, and even neurodiversity have opened new pathways for engagement and contribution. 🔓📡🧠
 
-- New villages and spaces have emerged as intentional safe havens, including:
-  - **Chill Rooms**
-  - **HDA – Hackers with Disabilities and Access Needs**
+## Consent, Context, and Community Boundaries 📜🔍🧭
 
-These spaces don’t dilute DEF CON’s edge. They deepen it—by making sure **more kinds of minds and bodies can participate fully**.
+One of the more nuanced challenges for neurodivergent individuals is decoding the boundary between socially sanctioned irreverence and harmful conduct. DEF CON now emphasizes three pillars in adjudicating acceptable behavior: consent, context, and impact. 🧠🔐⚖️
 
-## 2. Understanding “Acceptable” vs. “Harmful”
+These interactions rely on mutual respect and clearly signaled participation. The hallmark of acceptability in DEF CON's culture isn’t the absence of edginess—it’s the presence of clarity and consent. 🫱🗨️✅
 
-One of the hardest things to grasp—especially for neurodivergent folks—is **where the line is** between what's edgy but acceptable… and what's hurtful, exclusionary, or unsafe.
+Such interactions may not always appear malicious on the surface, but their effect—especially in an environment where social capital can determine access and influence—can be isolating or harmful. This is especially true for neurodivergent participants who may have reduced access to informal feedback loops. 🕸️🧏🫥
 
-DEF CON has long walked this line. But in recent years, the community has started to draw **clearer boundaries**. The key difference now isn’t just *what* is said or done—it’s about **context**, **consent**, and **impact**.
-
-### ✅ Acceptable: Edgy With Consent and Shared Context
-
-- A friend calling you out during Hacker Jeopardy because you *volunteered* and know what you’re in for.
-- Satirical talks that mock vendor security failures.
-- DEF CON puzzles that push boundaries without humiliation.
-
-But this kind of consent is only valid **as long as it’s mutual and ongoing**.  
-> **Even implied consent can be revoked**—and when it is, the boundary needs to be respected.
-
-### 🚫 Harmful: Behavior Without Consent, or With Power Imbalance
-
-- Sexualized or demeaning comments without opt-in
-- Public shaming over knowledge gaps
-- Retaliation against feedback or complaints
-
-Even if the behavior looks similar (a joke, a critique, a roast), the context changes everything. When someone doesn’t have the power to opt out—or when the behavior causes actual harm—it stops being culture and starts being misconduct.
-
-### 🧠 Why This Is Especially Hard for Neurodivergent Attendees
-
-If you're neurotypical, some of these boundaries may feel obvious or intuitive. You might pick up on tone, sarcasm, and social positioning—without even realizing you’re doing it.
-
-But for many of us who are autistic, ADHD, OCD, or otherwise neurodivergent, those social lines aren’t blurry—they’re often invisible.
-
-Here’s why:
-
--  **Literal interpretation:** We often take people at their word. If someone says, “You suck at crypto,” we may interpret that as a genuine insult, not a playful jab.
-
-- **Delayed pattern recognition:** Many ND folks need time and context to understand group dynamics. At DEF CON, where conversations move fast and rules are often unwritten, that time just doesn’t exist.
-
-- **Masking and mimicry:** To fit in, we may copy others’ behavior—but if we imitate edgy or sarcastic jokes without grasping the context, we might unintentionally harm someone or cross a line we didn’t know was there.
-
-- **Cognitive load and sensory overwhelm:** DEF CON is intense. Noise, crowds, flashing lights, and high cognitive demands drain energy quickly. Trying to track subtle social cues on top of that can be like reverse engineering an exploit while skydiving blindfolded.
-
-This isn’t about excuses. It’s about understanding the different ways people experience the same environment—and building a culture that doesn’t punish those differences.
+Neurodivergent attendees may struggle with recognizing implicit social boundaries. Literal interpretation of speech, delayed pattern recognition in social settings, and challenges with emotional reciprocity can lead to unintentional norm violations. This isn’t a character flaw—it’s a different cognitive profile. The responsibility lies with the community to foster an environment where boundaries are made clear and missteps become teachable moments rather than grounds for exclusion. That’s how we maintain both the spirit of hacker exploration and the dignity of all participants. 🧬👥📘
 
 ```js
 // Legacy DEF CON model
@@ -89,171 +52,47 @@ if (everyone_has_opted_in && no_harm_is_done) {
 }
 ```
 
-## 3. The Hadnagy Case: When Boundaries Aren’t Just Crossed—They’re Ignored
+## The Hadnagy Case: When the Line is Clearly Crossed ⚠️🚫📣
 
-In 2022, DEF CON made the rare decision to permanently ban Christopher Hadnagy, a well-known speaker and founder of the Social Engineering Village. He later filed a defamation lawsuit against DEF CON and its founder, Jeff Moss.
+In 2022, DEF CON made the unusual move of permanently banning Christopher Hadnagy, a high-profile figure and the founder of the Social Engineering Village. The ban stemmed from numerous documented complaints alleging inappropriate conduct, hostile behavior, and retaliatory actions across multiple contexts. The matter escalated into a defamation lawsuit, which was dismissed by a federal court in 2025, effectively validating DEF CON’s decision. ⚖️📄🧑‍⚖️
 
-In May 2025, a federal judge dismissed the lawsuit. The court sided with DEF CON, stating that Hadnagy failed to prove the statements made about him were false. In other words, the truth of the allegations outweighed any claims of reputational harm.
+This case illustrates the line between culturally permissible edginess and unacceptable behavior. Hadnagy’s actions were not isolated incidents within DEF CON’s unique context—they were prolonged patterns involving power imbalances and lack of consent. The decision to ban him signals that accountability applies universally, regardless of status or tenure. 🛑📉🗣️
 
-So what actually happened—and how is it different from the “edgy” behavior DEF CON has tolerated in the past?
+Cases like this are important not only because of the immediate justice they attempt to serve, but because of the precedent they set. They communicate to attendees—especially those from underrepresented or vulnerable communities—that DEF CON will defend its own values, including the safety and respect of participants. 🧷🛡️🤝
 
-🧩 The Allegations (Summarized)
+Neurodivergent attendees may worry: "What if I cross a line unintentionally?" The answer lies in intention and response. DEF CON is not in the business of punishing awkwardness or social discomfort. Rather, it responds to willful, repeated harm—particularly when it continues after boundaries have been clearly communicated. The takeaway is this: be willing to learn, and be responsive to feedback. That mindset keeps you within the ethos of hacker culture. 🧠🎯🔁
 
-Court documents and DEF CON’s legal filings referenced multiple complaints over several years, describing behavior that included:
+## Practical Strategies for Neurodivergent Participation 🛠️🧳🎯
 
-- Angry outbursts and hostile work environments
-
-- Inappropriate content in training materials (like scenarios involving female anatomy or hygiene)
-
-- Sexualized comments about female staff (“so hot it’s dumb”)
-
-- Retaliation against individuals who spoke up (such as canceling podcast appearances or pulling professional support)
-
-- Allegedly brandishing a weapon in a workplace setting
-
-These weren’t isolated incidents, off-color jokes, or misunderstood interactions at a party. They were **patterns of behavior** in professional settings—some of which extended well beyond DEF CON itself.
-
-
-### 🔄 Why This Wasn’t Just “Hackers Being Hackers”
-To understand why the Hadnagy case stood apart, we have to understand what “hackers being hackers” really means—and what it doesn't.
-
-Hacker culture has always been a bit of an anti-culture. It pushes back against authority, challenges assumptions, breaks things to understand them better. It values irreverence, play, and autonomy. From early phreakers to badge hackers, the scene was built on outsmarting systems that told us what we couldn’t do.
-
-But here’s the twist: while it looks chaotic from the outside, there’s an internal code among hackers—one that often centers around consent, transparency, and mutual respect.
-
-We demo our exploits on systems we own or control, not on unwilling participants. We play hard, but the best hackers know:
-
-```The boundary between exploration and exploitation is consent```
-
-DEF CON is no different. Yes, there’s a tradition of roasting, mischief, and chaos. But the unspoken social contract is: you opted in. You chose to be part of the game. And when someone revokes consent—explicitly or otherwise—that’s where the line is.
-
-The Hadnagy case broke from that tradition in several ways:
-
-**No consent:** Those targeted by his behavior didn’t sign up for it, and some were in workplace settings where opting out wasn’t an option.
-
-**No community care:** What began as interpersonal conflict turned into retaliation and exclusion—not reconciliation or curiosity.
-
-**No accountability:** The behavior allegedly continued over years, even after feedback and complaints were raised.
-
-As DEF CON stated in their transparency report:
-> *“We received multiple CoC violation reports... we are confident the severity of the transgressions merits a ban from DEF CON.”*  
-> — DEF CON Transparency Report, 2022
-
-There’s a difference between being edgy and ignoring consent, abusing power, or causing harm. What makes the Hadnagy case stand out isn’t just the behavior—it’s the context:
-
-- Power imbalance: He led a popular Village and ran a training company. Many people were professionally connected to him and couldn’t easily speak up.
-
-- Lack of consent: The people on the receiving end didn’t sign up for that treatment. These weren’t public performances—they were workplace dynamics.
-
-- Pattern over time: DEF CON leadership stated this wasn’t about one event. It was about “shocking acts of harassment over many years.”
-
-And importantly: The community listened. Complaints were brought forward. **DEF CON investigated. Action was taken.**
-
-🔍 Why It Matters for Neurodivergent Attendees
-
-This case helps clarify what “harm” really looks like—especially when you struggle to read social nuance. If you’re ND, you might worry, “What if I say the wrong thing and get banned too?”
-
-Here’s the key:
-
-> DEF CON isn’t banning people for awkwardness, being blunt, or making a weird joke.
-  They’re banning people for consistent patterns of harm, after repeated complaints, where consent and safety were disregarded.
->
-
-**You belong here** even if you need help understanding the rules. What’s not okay is ignoring those rules after they’ve been made clear—or treating others in ways they didn’t choose to be treated.
-
-## 4. Strategies for Neurodivergent Attendees
-DEF CON can feel like a DDoS attack on your senses—thousands of people, lights flashing, badges beeping, overlapping conversations, unexpected escalators. Add the pressure of unspoken social norms and suddenly it’s not just a con... it’s a gauntlet.
-
-But it doesn’t have to be. You can play the game without losing your health, identity, or values. You can **“Hack the Planet”—and yourself—with intention**.
-
-Here’s a guide for navigating DEF CON as a neurodivergent human, shaped by experience, pattern-matching, and a little help from cultural icons that raised us all.
-
-### 🎯 Build Your Script Before You Land
-Just like a good ```exploit.pl```, preparation matters. ND brains often feel better with predictability and personal boundaries already mapped out.
-
-- Set default scripts for social situations (“Hi, I’m just listening in” or “I need a break—see you later”).
-- Plan “energy costs” like a resource budget. If Hacker Jeopardy is a high-intensity raid, prep like it’s a boss fight—or skip it if you're not feeling up to it.
-- Use Villages like HDA or Chill Rooms as calmer base camps, I like to visit the HAM Radio Village personally. Blue Team Village usually has a lot of people but low lights and an overall chill vibe too.
-
-### 🎮 Recognize the Social Minigames
-DEF CON is full of unspoken games—puzzle badges, hallway cons, burner phone scavenger hunts. But social interactions can feel like the hardest puzzles of all.
-
-Here’s how to read the room:
-
-- Opt-in is your shield: If you didn’t volunteer for it, you’re not wrong for walking away. And if you did consent, you can always revoke that consent and walk away.
-
-- Laughter isn’t always approval: Some people laugh when uncomfortable. If someone makes a joke at your expense and you’re unsure—ask, or step out. You don’t need to debug every conversation.
-
-- Feedback is fuel, not failure: If someone says “Hey, that wasn’t cool,” it doesn’t mean you’re broken. It just means the context changed.
-
-Or as WarGames taught us:
-
->    Sometimes “the only winning move is not to play”—and that’s valid too.
->
-
-### 🎧 Anchor in Hacker Culture That *Welcomes* You
-
-There’s a deep irony in hacker history: a culture built on anti-culture is often the most accepting place for people who never fit the default OS.
-
-🧑‍🚀 Dark Tangent, DEF CON’s founder, has said for years that **“all hackers are welcome.”** This isn’t just branding—it’s a statement of values. The con was built as a space for misfits, explorers, and system-breakers. That includes those of us with sensory needs, processing differences, and social adaptations.
-
-🥣 Captain Crunch (John Draper) didn’t just phreak phone lines—he cracked a world closed to disabled and neurodivergent minds.
-
-🎤 Nerdcore artists like Dual Core and YT Cracker created a soundscape of belonging for those of us who are different—not less—with code in their veins.
-
-💬 “Hack the Planet!” isn’t just a line from Hackers—it’s a call to make knowledge, tools, and communities accessible for everyone, not just the 1337.
-
-📜 In 1986, The Mentor published The Hacker Manifesto—a raw, honest defense of the curious mind. It didn’t glorify rule-breaking. It glorified thinking differently, and it remains a core text for neurodivergent hackers who never felt understood in traditional systems.
-
-🧠 There’s no official Neurodiverse Village (yet), but neurodivergent perspectives have been represented through talks at the Packet Hacking Village and BiC Village.
-
-🧭 Many attendees are quietly navigating the con with autism, ADHD, OCD, and more—and groups like HDA, BlanketFortCon, and Friends of Bill W., as well as low-stimulation zones, can be safe places to pause, process, and find your footing.
+DEF CON is an exhilarating but cognitively demanding environment. High levels of sensory input, fast-paced interactions, and lack of predictability can quickly lead to overload. Planning is key. Thoughtful preparation can turn DEF CON from an overwhelming maze into an empowering sandbox. 🧠🧭📊
 
 ### 🛠 Build a Personal Toolkit
 
 | Need               | Hack                                                         |
 |--------------------|--------------------------------------------------------------|
-| Social fatigue     | Earbuds, stim toys                                           |
-| Sensory overload   | Sunglasses, deep pressure gear                               |
-| Conversation opt-out | “Talk to me later” badges, prewritten scripts             |
-| Real-time help     | **Ask a Goon—they’re here to help without judgment.**        |
+| Social fatigue     | Earbuds (noise cancelling/Loop) Stim/Fidget toys                                           |
+| Sensory overload   | Sunglasses, deep pressure gear, comfort objects, essential oils                              |
+| Communication | Opt-Out script/badge, scheduled breaks, notebooks           |
+| Real-time help     | **Ask a Goon—they’re here to help without judgment.**, conference buddy        |
 
-### 🧑‍🚒 Goons: The Unsung Heroes of DEF CON
+### Cultural Belonging 🌈📡📚
 
-At DEF CON, the individuals in red shirts affectionatly known as **Goons** are the backbone of the conference. These dedicated volunteers handle everything from logistics to attendee support, ensuring the event runs smoothly. Whether you're lost, overwhelmed, or need assistance, Goons are there to help.
+DEF CON has always been a haven for the unconventional. Hacker culture values difference, curiosity, skepticism, and intellectual freedom. While there is not yet a Neurodiversity Village, existing spaces such as Chill Rooms and HDA already support neurodivergent inclusion. 🔓🧠🎤
 
-Goons are trained to assist attendees with various needs, including directing them to quiet spaces, helping navigate the venue, or addressing any concerns. Their presence is especially beneficial for neurodivergent individuals who might find the conference environment challenging. **Goons are always ready to help, making them an invaluable resource for everyone at DEF CON.**
-  
-Newbie or overwhelmed? Say:  
-> *“Hey, I’m not sure where to go or what I need. Can you help?”*  
-And they will.
+You are not alone. You are part of a long tradition of thinkers and builders who didn’t fit conventional molds—and made history because of it. 🏗️🧬🚀
 
-## Conclusion: DEF CON Belongs to All of Us
+## Goons: DEF CON’s Human Infrastructure 🧑‍✈️🟥🧭
 
-DEF CON is a lot of things. It’s intense. It’s unpredictable. It’s brilliant, frustrating, hilarious, exhausting, and often unforgettable. For neurodivergent attendees, it can feel like home and like a system we still haven’t rooted.
+Goons—volunteers in red shirts—are DEF CON’s operational backbone. They manage logistics, mediate conflicts, and assist attendees. For neurodivergent individuals experiencing confusion or distress, Goons are often the first and best line of support. Their mandate includes accessibility and attendee wellbeing. 🛟📢🧠
 
-But here’s the truth:
+They are trained, approachable, and empowered to make decisions in the moment to help attendees stay safe and engaged. Don’t hesitate to say, "I’m feeling overwhelmed—can you help me figure out where to go next?" or "I need to find a quiet space—can you show me the way?" 🚶‍♀️🧭💬
 
-> You don’t need to mask, mimic, or mod your identity to belong.
+The presence of Goons is more than just logistical; it's cultural infrastructure that reflects DEF CON’s commitment to both chaos and care. 🏛️🔧❤️
 
-Being neurodivergent doesn’t mean you’re less equipped to navigate hacker culture—it means you’re built to question systems, spot edge cases, and challenge assumptions. That’s not just welcome here—it’s foundational to what DEF CON is.
+## Conclusion: Your Cognitive Difference is an Asset 🧠✨🔐
 
-You’ll find allies in places you don’t expect.
-You’ll find Goons who will walk with you.
-You’ll find other ND hackers—quietly or proudly—navigating the same weird, beautiful social OS.
+DEF CON thrives on diversity of thought. Neurodivergent perspectives offer unique advantages in cybersecurity: precision, perseverance, systems thinking, and unconventional problem solving. You don’t need to mask, mimic, or suppress your identity to belong here. Your difference is not a deficit—it’s your edge. 🧬🧠⚔️
 
-And when things don’t work for you? **Hack them**. Build your own tools, your own rules, your own spaces.
+If parts of DEF CON don’t work for you, adapt them. Hack them. Build better tools, better interactions, and better norms. That’s what hackers do. Bring your whole self, your curiosity, your analytical eye—and your need for accommodations. They’re not just allowed—they’re welcome. 🧰🛠️🤗
 
-Because DEF CON was never meant to be comfortable—**it was meant to be ours**.
-
-### 🛠 Quick-Start Kit for ND Hackers
-
-- 🎧 Earbuds, stim tools, sunglasses
-- ⏰ Schedule breaks
-- 📍 Pick one calm Village as your fallback
-- 🧑‍🚒 Ask Goons for help—seriously
-- 🗣 Say hi to other ND folks—you’re not alone
-
-> You belong here. You don’t have to mask to participate.  
-> And if the system doesn’t work for you—**hack it**.
-
+Because DEF CON was never meant to be polished or perfect—it was meant to be ours. 🏴‍☠️🌐🧩
