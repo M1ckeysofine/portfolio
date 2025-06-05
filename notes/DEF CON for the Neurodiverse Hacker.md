@@ -1,7 +1,6 @@
 # Navigating DEF CON as a Neurodivergent Hacker
 
-When I first encountered [The Hacker's Manifesto](https://phrack.org/issues/7/3), it resonated deeply with me as a rallying cry that celebrated curiosity, the pursuit of knowledge, and intellectual rebellion against societal norms. Its message validated my unique perspective shaped by neurodivergence, affirming that thinking differently isn't a limitation but a strength. This realization set the perfect foundation for my journey into DEF CON. This text celebrated curiosity, intellectual rebellion, and the value of thinking differently, which immediately made me feel seen and validated in my neurodivergence. It set the stage perfectly for my journey into DEF CON.
-
+When I first encountered [The Hacker's Manifesto](https://phrack.org/issues/7/3), it resonated deeply with me as a rallying cry that celebrated curiosity, the pursuit of knowledge, and intellectual rebellion against societal norms. Its message validated my unique perspective shaped by neurodivergence, affirming that thinking differently isn't a limitation but a strength. This realization set the perfect foundation for my journey into DEF CON. 
 ## Culture, Consent, and Change 🎛️🧩📡
 
 ### Introduction 🚀🧠💡
