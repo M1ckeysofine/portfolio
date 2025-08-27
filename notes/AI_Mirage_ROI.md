@@ -1,5 +1,7 @@
 # Clouds, Machines, and Mirage ROI: Lessons from Cloud Computing for Today’s AI Hype
 
+*Thank you for stopping by, please note that all opinions expressed on this site are my own personal opinions and not those of any employer or other organization. This is a personal blog expressing personal opinions*
+
 ## Introduction
 
 History often repeats itself in the world of technology. In the 2010s, cloud computing was heralded as the magic solution: *“lower costs, instant scalability, innovation without infrastructure.”* Now, artificial intelligence (AI) is the new frontier. Executives are swept up in its promise, often driven by the same blend of **fear-of-missing-out (FOMO)**, **organizational inertia**, and **cognitive biases** that cloud computing once ignited.
@@ -296,8 +298,6 @@ Overselling contributes to a repeating cycle:
 4. **Projects underdeliver**, but sunk-cost bias keeps them alive.  
 
 The outcome is not just wasted investment, but **strategic distraction**. Organizations may pursue vendor-defined futures instead of aligning technology adoption with their own business needs.
-
----
 
 ### **Summary**
 
