@@ -1,4 +1,4 @@
-Clouds, Machines, and Mirage ROI: Lessons from Cloud Computing for Today’s AI Hype
+# Clouds, Machines, and Mirage ROI: Lessons from Cloud Computing for Today’s AI Hype
 
 ## Introduction
 
@@ -14,18 +14,18 @@ It’s important to acknowledge that AI and cloud are not identical categories. 
 The sunk-cost fallacy describes the tendency to continue investing in a failing course of action simply because resources have already been spent. Arkes and Blumer (1985) famously observed:
 
 > “The sunk cost effect is manifested in a greater tendency to continue an endeavor once an investment in money, effort, or time has been made.”  
-> — [Arkes & Blumer, *The Psychology of Sunk Cost*](https://www.researchgate.net/publication/4812596_The_psychology_of_sunk_cost?utm_source=chatgpt.com)
+> — [Arkes & Blumer, *The Psychology of Sunk Cost*](https://www.researchgate.net/publication/4812596_The_psychology_of_sunk_cost)
 
 
 Psychologists attribute this to **negative affect**: the discomfort of admitting loss motivates further spending. One study notes:
 
 > “The sunk-cost fallacy is driven by negative affect… people are prepared to take the risk of further losses… because thinking about irretrievable investments causes the elicitation of negative affect.”  
-> — [Friedel et al., *PMC*](https://pmc.ncbi.nlm.nih.gov/articles/PMC6324799/?utm_source=chatgpt.com)
+> — [Friedel et al., *PMC*](https://pmc.ncbi.nlm.nih.gov/articles/PMC6324799/)
 
 The sense of **personal responsibility** magnifies this effect. Individuals who authorized the initial decision often double down—less from rational analysis, and more to protect their reputation. As summarized in escalation-of-commitment literature:
 
 > “Participants who were made to feel personally responsible for a failing decision continued committing more resources than those in low-responsibility conditions.”  
-> — [Barry M. Staw, *Escalation of Commitment Research*](https://en.wikipedia.org/wiki/Escalation_of_commitment?utm_source=chatgpt.com)
+> — [Barry M. Staw, *Escalation of Commitment Research*](https://en.wikipedia.org/wiki/Escalation_of_commitment)
 
 This dynamic is especially salient for executives, who face reputational costs if seen as “backtracking” or “admitting error.”
 
@@ -34,7 +34,7 @@ This dynamic is especially salient for executives, who face reputational costs i
 While sunk-cost fallacy keeps organizations locked in, **recency bias** propels them forward. Recency bias describes our tendency to overweight the most recent information or stories:
 
 > “Recency bias is a cognitive bias that favors recent events over earlier ones.”  
-> — [Wikipedia, *Recency Bias*](https://en.wikipedia.org/wiki/Recency_bias?utm_source=chatgpt.com)
+> — [Wikipedia, *Recency Bias*](https://en.wikipedia.org/wiki/Recency_bias)
 
 In technology adoption, this means a flashy success story—a peer company touting AI breakthroughs, or a vendor case study—looms larger in the decision-maker’s mind than older cautionary tales. As a result, organizations may rush forward, convinced the most recent example reflects an inevitable trend.
 
@@ -46,8 +46,6 @@ In technology adoption, this means a flashy success story—a peer company touti
 By grounding the discussion in psychology, it becomes clear that the parallels between cloud and AI aren’t just technological—they’re human. The same biases that once drove cloud overselling now set the stage for AI’s inflated promise.
 
 
-⸻
-
 ## The Hype Machine
 
 Technological adoption isn’t just a technological narrative; it’s also a psychological story. At the heart of major tech waves—first cloud, now AI—is a sophisticated hype machine where **marketing, capitalism, and cognitive bias** intertwine to propel forward narratives that often exceed substance.
@@ -57,7 +55,7 @@ Technological adoption isn’t just a technological narrative; it’s also a psy
 **Hype culture**—the collective enthusiasm around emerging tech—is characterized by exaggerated expectations fueled by scarcity, novelty, and selective storytelling:
 
 > “Hype culture … is characterized by an attitude of excessive and positive expectations that consumers attach to products, services or technological advancements which have yet to be released.”  
-> — [Laura Waldman, *Verizon’s Uppernet Accurately Defines Cloud Computing*](https://laurawaldman.wordpress.com/2012/06/12/verizons-uppernet-accurately-defines-cloud-computing/?utm_source=chatgpt.com)
+> — [Laura Waldman, *Verizon’s Uppernet Accurately Defines Cloud Computing*](https://laurawaldman.wordpress.com/2012/06/12/verizons-uppernet-accurately-defines-cloud-computing/)
 
 This cultural fever accelerates progress: marketers exploit **recency bias**, where the most salient new success stories overshadow past warnings or failures. Combined with **social proof** and **fear of missing out**, hype acts as a gravitational pull—hard to resist and easily amplified.
 
@@ -78,7 +76,7 @@ Both cloud and AI have experienced this arc. Cloud’s early hype eventually led
 Hype aligns tightly with capitalist incentive structures. Products gain value not simply through utility, but through **perceived potential**—a hallmark of hype marketing:
 
 > “Hype allows brands to promote their image above the actual quality of the product.”  
-> — [Wikipedia, *Hype Marketing*](https://en.wikipedia.org/wiki/Hype_%28marketing%29?utm_source=chatgpt.com)
+> — [Wikipedia, *Hype Marketing*](https://en.wikipedia.org/wiki/Hype_%28marketing%29)
 
 This phenomenon mirrors **conspicuous consumption**, where purchasing or adopting what’s perceived as cutting edge signals status—often regardless of actual performance.
 
@@ -87,7 +85,7 @@ This phenomenon mirrors **conspicuous consumption**, where purchasing or adoptin
 A telling early example of cloud hype comes from an ad campaign for **Verizon’s “Uppernet”**. While this term lacks formal corporate backing, the ad effectively framed cloud infrastructure as robust, reliable, and almost mythic in its solidity:
 
 > “Our cloud is not soft and fluffy, our cloud is made of bedrock, concrete and steel. Our cloud is the smartest brains combating the latest security threats…and is scalable as far as the mind can see.”  
-> — [Verizon Uppernet Ad Transcript](https://laurawaldman.wordpress.com/2012/06/12/verizons-uppernet-accurately-defines-cloud-computing/?utm_source=chatgpt.com)
+> — [Verizon Uppernet Ad Transcript](https://laurawaldman.wordpress.com/2012/06/12/verizons-uppernet-accurately-defines-cloud-computing/)
 
 This messaging welds abstract innovation to emotion—projecting strength and clarity onto something inherently intangible.
 
@@ -109,14 +107,11 @@ When evangelists—vendors, media, peers—synchronize on hype, leaders respond 
 > **Counterpoint Acknowledgment:**  
 Some would contend that hype isn’t distortion at all, but fuel. Without hype, risk-averse organizations may never take bold bets. Even if nine out of ten projects fail, the one success can pay back the portfolio many times over. In this sense, hype serves a catalytic role—accelerating adoption and forcing cultural change. The key is not to eliminate hype, but to channel it responsibly.
 
----
 
 ### **Summary**
 
 The “Hype Machine” isn’t accidental—it’s a finely tuned mechanism where psychology, marketing, and capitalism converge. Verizon’s *Uppernet* campaign exemplified this: a bold, concrete branding of the cloud that soared on narrative—but quickly dissipated. Both cloud and AI ride this same wave: elevated expectations, fleeting narratives, and a powerful blend of human optimism and marketing craft.
 
-
-⸻
 
 ## The Sunken Cost Fallacy in Technology Adoption
 
@@ -130,17 +125,17 @@ It’s worth noting that high failure rates don’t always signal wasted effort.
 Arkes and Blumer’s landmark paper (1985) defined the bias:
 
 > “The sunk cost effect is manifested in a greater tendency to continue an endeavor once an investment in money, effort, or time has been made.”  
-> — [Arkes & Blumer, *The Psychology of Sunk Cost*](https://www.researchgate.net/publication/4812596_The_psychology_of_sunk_cost?utm_source=chatgpt.com)
+> — [Arkes & Blumer, *The Psychology of Sunk Cost*](https://www.researchgate.net/publication/4812596_The_psychology_of_sunk_cost)
 
 Subsequent research clarified the emotional drivers. A study published in *Frontiers in Psychology* explains:
 
 > “The sunk-cost fallacy is driven by negative affect… people are prepared to take the risk of further losses… because thinking about irretrievable investments causes the elicitation of negative affect.”  
-> — [Friedel et al., *PMC*](https://pmc.ncbi.nlm.nih.gov/articles/PMC6324799/?utm_source=chatgpt.com)
+> — [Friedel et al., *PMC*](https://pmc.ncbi.nlm.nih.gov/articles/PMC6324799/)
 
 The **sense of personal responsibility** is especially strong for executives. Barry M. Staw’s classic work on **escalation of commitment** shows:
 
 > “Participants who were made to feel personally responsible for a failing decision continued committing more resources than those in low-responsibility conditions.”  
-> — [Staw, *Escalation of Commitment*](https://en.wikipedia.org/wiki/Escalation_of_commitment?utm_source=chatgpt.com)
+> — [Staw, *Escalation of Commitment*](https://en.wikipedia.org/wiki/Escalation_of_commitment)
 
 For business leaders, abandoning a project may feel like admitting defeat—so continuation becomes a reputational safeguard, even if irrational.
 
@@ -162,9 +157,9 @@ Today, the same dynamic plays out in AI adoption:
 - **Private LLMs**: Some firms build expensive in-house models, only to find maintenance costs unsustainable.  
 - **Licensing contracts**: Multi-year AI vendor agreements lock organizations in, making withdrawal politically and financially unappealing.  
 
-A recent MIT study highlights the danger: **95% of enterprise AI pilots fail to move beyond incubation**, yet organizations continue to pour resources into them. ([Windows Central](https://www.windowscentral.com/artificial-intelligence/95-percent-ai-projects-fail-bubble-pop?utm_source=chatgpt.com)).
+A recent MIT study highlights the danger: **95% of enterprise AI pilots fail to move beyond incubation**, yet organizations continue to pour resources into them. ([Windows Central](https://www.windowscentral.com/artificial-intelligence/95-percent-ai-projects-fail-bubble-pop)).
 
-Gartner forecasts that **30% of generative AI projects will be abandoned after proof of concept by the end of 2025**—suggesting many leaders will eventually face this reckoning. ([AI Magazine](https://aimagazine.com/articles/how-30-of-gen-ai-projects-could-be-abandoned-by-2025?utm_source=chatgpt.com)).
+Gartner forecasts that **30% of generative AI projects will be abandoned after proof of concept by the end of 2025**—suggesting many leaders will eventually face this reckoning. ([AI Magazine](https://aimagazine.com/articles/how-30-of-gen-ai-projects-could-be-abandoned-by-2025)).
 
 ### The Human Factor: Escalation and “Face-Saving”
 
@@ -181,7 +176,6 @@ The danger is not only wasted money—it’s **opportunity cost**. Resources tie
 
 By recognizing sunk-cost bias early, leaders can design **exit strategies**, **go/no-go checkpoints**, and **independent reviews**—structural safeguards against escalation of commitment.
 
-⸻
 
 ## The Illusion of Competitive Urgency
 
@@ -192,7 +186,7 @@ If the sunk-cost fallacy explains why organizations struggle to stop failing pro
 Psychologists have defined FOMO as:
 
 > “A pervasive apprehension that others might be having rewarding experiences from which one is absent.”  
-> — [Przybylski et al., *Motivational, Emotional, and Behavioral Correlates of Fear of Missing Out* (2013)](https://www.sciencedirect.com/science/article/abs/pii/S0747563213000800?utm_source=chatgpt.com)
+> — [Przybylski et al., *Motivational, Emotional, and Behavioral Correlates of Fear of Missing Out* (2013)](https://www.sciencedirect.com/science/article/abs/pii/S0747563213000800)
 
 In consumer behavior, FOMO drives compulsive adoption of trends. In enterprise contexts, it manifests as **reactive strategy-making**—leaders rush to approve cloud or AI initiatives simply because competitors are perceived to be doing so.
 
@@ -210,7 +204,7 @@ The fear wasn’t entirely irrational: early movers did gain efficiencies. But f
 The same urgency is now tied to AI. Gartner notes that **after the initial hype of 2023–2024, executives are impatient for returns**:
 
 > “After last year’s hype, executives are impatient to see returns on GenAI investments … organizations are struggling to prove and realize value.”  
-> — [Gartner via *The Journal*](https://thejournal.com/articles/2024/08/06/gartner-30-of-gen-ai-projects-will-be-abandoned.aspx?utm_source=chatgpt.com)
+> — [Gartner via *The Journal*](https://thejournal.com/articles/2024/08/06/gartner-30-of-gen-ai-projects-will-be-abandoned.aspx)
 
 Meanwhile, the MIT NANDA Initiative found **95% of enterprise AI pilots fail to move past incubation**—but this hasn’t slowed investment. Instead, competitive pressure accelerates it, creating a paradox: leaders fear missing out even as failure rates are widely publicized.
 
@@ -221,7 +215,7 @@ Competitive urgency is amplified by **recency bias**—our tendency to overweigh
 As one behavioral analysis put it:
 
 > “Recency bias is a cognitive bias that favors recent events over earlier ones.”  
-> — [Wikipedia, *Recency Bias*](https://en.wikipedia.org/wiki/Recency_bias?utm_source=chatgpt.com)
+> — [Wikipedia, *Recency Bias*](https://en.wikipedia.org/wiki/Recency_bias)
 
 This bias explains why each new AI success story can reset executive enthusiasm, even when failure rates remain sky-high.
 
@@ -241,8 +235,6 @@ The illusion of urgency often results in:
 
 Together, FOMO and sunk-cost bias create a cycle: *rush in quickly, stay in too long*. This pattern defined much of the cloud hype era, and it now risks defining AI adoption as well.
 
-⸻
-
 ## Overselling to Executives
 
 If hype sets the stage and FOMO pushes leaders to act, **vendor overselling** often delivers the final push. Both cloud and AI have been marketed to executives not simply on technical merit, but through *visionary narratives* designed to resonate with business ambitions. This approach is effective because it aligns with deep psychological tendencies in leadership decision-making.
@@ -254,7 +246,7 @@ Sales and marketing don’t just present technology—they present **stories**. 
 Behavioral research explains why this works. Executives are especially vulnerable to **social proof**—the tendency to model decisions on perceived peers:
 
 > “Social proof is a psychological phenomenon where people copy the actions of others in an attempt to undertake behavior in a given situation.”  
-> — [Cialdini, *Influence: Science and Practice*](https://en.wikipedia.org/wiki/Social_proof?utm_source=chatgpt.com)
+> — [Cialdini, *Influence: Science and Practice*](https://en.wikipedia.org/wiki/Social_proof)
 
 > **Counterpoint Acknowledgment:**  
 To be fair, many executives are not naïve victims of sales psychology. They use portfolio management, ROI tracking, and staged investments to filter vendor claims. Frameworks such as Gartner’s AI TRiSM (Trust, Risk, and Security Management) show that leaders are already working to put guardrails in place. Still, even sophisticated governance must contend with subtle biases and market pressure.
@@ -279,7 +271,7 @@ AI marketing follows the same pattern. Vendors highlight glamorous applications:
 - Fraud detection algorithms touted as “instant and infallible.”  
 - Generative design tools that promise to “cut R&D cycles in half.”  
 
-Yet failure rates tell another story. As MIT reported, **95% of AI pilots never move beyond incubation** ([Windows Central](https://www.windowscentral.com/artificial-intelligence/95-percent-ai-projects-fail-bubble-pop?utm_source=chatgpt.com)). Gartner projects that **30% of generative AI projects will be abandoned by 2025** ([AI Magazine](https://aimagazine.com/articles/how-30-of-gen-ai-projects-could-be-abandoned-by-2025?utm_source=chatgpt.com)).
+Yet failure rates tell another story. As MIT reported, **95% of AI pilots never move beyond incubation** ([Windows Central](https://www.windowscentral.com/artificial-intelligence/95-percent-ai-projects-fail-bubble-pop)). Gartner projects that **30% of generative AI projects will be abandoned by 2025** ([AI Magazine](https://aimagazine.com/articles/how-30-of-gen-ai-projects-could-be-abandoned-by-2025)).
 
 The gap between polished case studies and real-world outcomes is wide—but the presentation of inevitability creates a compelling sales hook.
 
@@ -311,7 +303,6 @@ The outcome is not just wasted investment, but **strategic distraction**. Organi
 
 Cloud vendors oversold agility and cost savings with selective examples like Netflix. AI vendors now oversell automation and intelligence with equally narrow case studies. Executives, subject to social proof, authority bias, and reputational pressure, often buy into these narratives. The result is a cycle of overcommitment: grand promises, underwhelming outcomes, and difficulty backing out.
 
-⸻
 
 ## Lessons from Cloud for Today’s AI
 
@@ -326,7 +317,7 @@ Critics might argue that judging AI on today’s pilot failures is premature. Cl
 
 Cloud migrations went wrong when they were pursued as an end in themselves. Companies moved applications simply because “everything must be in the cloud,” without asking whether migration would add business value.
 
-The same trap now threatens AI. A survey of enterprise pilots found that **95% fail to deliver measurable returns** ([Windows Central](https://www.windowscentral.com/artificial-intelligence/95-percent-ai-projects-fail-bubble-pop?utm_source=chatgpt.com)). Many of these projects lacked clear objectives beyond “we need an AI strategy.”
+The same trap now threatens AI. A survey of enterprise pilots found that **95% fail to deliver measurable returns** ([Windows Central](https://www.windowscentral.com/artificial-intelligence/95-percent-ai-projects-fail-bubble-pop)). Many of these projects lacked clear objectives beyond “we need an AI strategy.”
 
 **Lesson:** Define specific goals upfront. For example, “reduce customer service handle time by 15%” is actionable; “implement AI in customer service” is not.
 
@@ -334,7 +325,7 @@ The same trap now threatens AI. A survey of enterprise pilots found that **95% f
 
 In the cloud era, vague expectations of “cost savings” often turned into higher monthly bills. Organizations only began to succeed once they implemented cost monitoring, workload tagging, and optimization practices.
 
-AI requires similar discipline. Gartner warns that **30% of generative AI projects will be abandoned by 2025**, largely because they fail to demonstrate value ([AI Magazine](https://aimagazine.com/articles/how-30-of-gen-ai-projects-could-be-abandoned-by-2025?utm_source=chatgpt.com)).
+AI requires similar discipline. Gartner warns that **30% of generative AI projects will be abandoned by 2025**, largely because they fail to demonstrate value ([AI Magazine](https://aimagazine.com/articles/how-30-of-gen-ai-projects-could-be-abandoned-by-2025)).
 
 **Lesson:** Define metrics of success before investing. ROI can be expressed in time saved, error rates reduced, or revenue uplift—not just “innovation potential.”
 
@@ -351,7 +342,7 @@ The most successful cloud adopters didn’t migrate everything at once—they st
 Princeton computer scientist Arvind Narayanan, co-author of *AI Snake Oil*, makes this caution explicit:
 
 > “AI snake oil … is AI that doesn’t work as advertised and probably can’t work as advertised.”  
-> — [Narayanan & Kapoor, *AI Snake Oil*](https://www.princeton.edu/news/2024/12/18/ai-snake-oil-conversation-princeton-ai-experts-arvind-narayanan-and-sayash-kapoor?utm_source=chatgpt.com)
+> — [Narayanan & Kapoor, *AI Snake Oil*](https://www.princeton.edu/news/2024/12/18/ai-snake-oil-conversation-princeton-ai-experts-arvind-narayanan-and-sayash-kapoor)
 
 The antidote to snake oil is disciplined, evidence-driven adoption.
 
@@ -361,13 +352,9 @@ Ultimately, the greatest lesson from cloud is that technology adoption must serv
 
 AI will follow the same trajectory—but only if leaders resist the pull of hype and ground decisions in evidence.
 
----
-
 ### **Summary**
 
 Cloud adoption eventually stabilized when organizations moved past hype and focused on clear objectives, measurable ROI, exit strategies, and iterative scaling. AI is at the same turning point today. Leaders who learn from cloud’s growing pains can avoid repeating the same cycle of overinvestment and disappointment—and instead realize AI’s true potential.
-
-⸻
 
 ## Conclusion
 
