@@ -122,23 +122,6 @@ Once organizations make large investments—whether in infrastructure, tools, or
 > **Counterpoint Acknowledgment:**  
 It’s worth noting that high failure rates don’t always signal wasted effort. Innovation funnels in R&D often have attrition rates just as high—most projects fail, but the few that succeed can transform entire industries. In this sense, today’s AI pilots may be less a sign of hype and more a necessary process of experimentation. Still, leaders should remain cautious that persistence is justified by learning value, not simply sunk costs.
 
-### Why Humans Fall for It
-
-Arkes and Blumer’s landmark paper (1985) defined the bias:
-
-> “The sunk cost effect is manifested in a greater tendency to continue an endeavor once an investment in money, effort, or time has been made.”  
-> — [Arkes & Blumer, *The Psychology of Sunk Cost*](https://www.researchgate.net/publication/4812596_The_psychology_of_sunk_cost)
-
-Subsequent research clarified the emotional drivers. A study published in *Frontiers in Psychology* explains:
-
-> “The sunk-cost fallacy is driven by negative affect… people are prepared to take the risk of further losses… because thinking about irretrievable investments causes the elicitation of negative affect.”  
-> — [Friedel et al., *PMC*](https://pmc.ncbi.nlm.nih.gov/articles/PMC6324799/)
-
-The **sense of personal responsibility** is especially strong for executives. Barry M. Staw’s classic work on **escalation of commitment** shows:
-
-> “Participants who were made to feel personally responsible for a failing decision continued committing more resources than those in low-responsibility conditions.”  
-> — [Staw, *Escalation of Commitment*](https://en.wikipedia.org/wiki/Escalation_of_commitment)
-
 For business leaders, abandoning a project may feel like admitting defeat—so continuation becomes a reputational safeguard, even if irrational.
 
 ### How It Showed Up in Cloud Computing
