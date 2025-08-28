@@ -1,8 +1,8 @@
 ---
-title: Mick's Thoughts
+title: Mick's Blog
 ---
-# Mick's Notes/Thoughts/Rants
-This is where I put projects, ideas, thoughts about things I am working on that I don't want to misplace
+## Mick's Blog/Thoughts/Rants
+This is where I share some of my thoughts and ideas
 
 [[AI_Mirage_ROI]]\
 [[DEF CON for the Neurodiverse Hacker]]\
